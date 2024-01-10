@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+En noviembre de 2023, obtuve mi título de grado en la Facultad de Ciencias Exactas, Físico-Químicas y Naturales de la Universidad Nacional de Río Cuarto (UNRC). Durante este período, fui asesorado por el Dr. Manuel Otero y el Dr. Gustavo Morales.
+
+Mi enfoque de investigación se centró en el estudio de sólidos de Van der Waals a través de la teoría del Funcional de la Densidad Electrónica (DFT). Específicamente, mi trabajo implicó el uso de simulaciones computacionales para comprender cómo la hidracina facilita la exfoliación del diseleniuro de titanio, tanto con como sin la presencia de cobre.
 
 A data-driven personal website
 ======
