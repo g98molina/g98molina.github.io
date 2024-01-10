@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gonzalo N. Molina"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
