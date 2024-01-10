@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-En noviembre de 2023, obtuve mi título de grado en la Facultad de Ciencias Exactas, Físico-Químicas y Naturales de la Universidad Nacional de Río Cuarto (UNRC). Durante este período, fui asesorado por el Dr. Manuel Otero y el Dr. Gustavo Morales.
+En noviembre de 2023, obtuve mi título de grado en la Facultad de Ciencias Exactas, Físico-Químicas y Naturales de la Universidad Nacional de Río Cuarto (UNRC). Durante este período, fui dirigido por el Dr. Manuel Otero y el Dr. Gustavo Morales.
 
-Mi enfoque de investigación se centró en el estudio de sólidos de Van der Waals a través de la teoría del Funcional de la Densidad Electrónica (DFT). Específicamente, mi trabajo implicó el uso de simulaciones computacionales para comprender cómo la hidracina facilita la exfoliación del diseleniuro de titanio, tanto con como sin la presencia de cobre.
+Mi enfoque de investigación se centró en el estudio de sólidos de Van der Waals a través de la teoría del Funcional de la Densidad Electrónica (DFT). Específicamente, [mi trabajo](https://drive.google.com/file/d/1IlPsFnyfzdzeKuJO72Gd7_vFMuT8oqW5/view?usp=drive_link) implicó el uso de simulaciones computacionales para comprender cómo la hidracina facilita la exfoliación del diseleniuro de titanio, tanto con como sin la presencia de cobre.
 
 Becas Obtenidas
 ======
