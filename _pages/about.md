@@ -30,7 +30,7 @@ Asistencia a Congresos
 A lo largo de mis ultimos años de carrera, año 2022 y 2023, he tenido el privilegio de compartir mis investigaciones en diversos congresos y simposios, contribuyendo al intercambio de conocimientos y experiencias en el ámbito científico. A continuación, se detallan algunos de los eventos en los que he participado con la presentación de posters:
 
 ### NANO 2022: XXI Encuentro de Superficies y Materiales Nanoestructurados
-- **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 dopado con Cu mediante cálculos de DFT] (https://drive.google.com/file/d/1a_dDIkZtlvvU-TLGTdl9qm0EAlQQKC6Z/view?usp=drive_link).
+- **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 dopado con Cu mediante cálculos de DFT](https://drive.google.com/file/d/1a_dDIkZtlvvU-TLGTdl9qm0EAlQQKC6Z/view?usp=drive_link).
 - **Autores:** Molina, Gonzalo; Rosa, Álvaro; Otero, Manuel; Morales, Gustavo.
 
 ### I SiModAr: I Simposio de Modelado Multiescala para Biociencias y Nanomateriales en Argentina
