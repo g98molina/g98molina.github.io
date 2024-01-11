@@ -38,11 +38,11 @@ A lo largo de mis ultimos años de carrera, año 2022 y 2023, he tenido el privi
 - **Autores:** Sofía Raviolo, Gonzalo Molina, Manuel Otero y Guillermina Leticia Luque.
 
 ### 108° RAFA 2023: Reunión Anual de Física Argentina
-- **Título del Póster:** Estudio de la exfoliación de 𝑇𝑖𝑆𝑒 bidimensional dopado con 𝐶𝑢.
+- **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 bidimensional dopado con 𝐶𝑢](https://drive.google.com/file/d/1T5_DcIldMbImPE6HYrD2ngimyKBaPqYG/view?usp=sharing).
 - **Autores:** Molina, Gonzalo; Rosa, Álvaro; Otero, Manuel; Santo, Marisa, Morales, Gustavo.
 
 ### II Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)
-- **Título del Póster:** Óxidos de carbono fluorados para protección de Li metálico mediante DFT.
+- **Título del Póster:** [Óxidos de carbono fluorados para protección de Li metálico mediante DFT](https://drive.google.com/file/d/1R5A7ddlFveliKX7PexE_bBJH0Oc5il1f/view?usp=sharing).
 - **Autores:** Molina, Gonzalo; Raviolo Sofía; Otero Manuel; Luque Guillermina Leticia.
 
 Estas experiencias han enriquecido mi perspectiva y me han permitido contribuir activamente a la comunidad científica, compartiendo avances y descubrimientos en mis áreas de investigación.
