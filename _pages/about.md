@@ -10,7 +10,7 @@ redirect_from:
 
 En noviembre de 2023, obtuve mi título de grado en la Facultad de Ciencias Exactas, Físico-Químicas y Naturales de la Universidad Nacional de Río Cuarto (UNRC). Durante este período, fui dirigido por el Dr. Manuel Otero y el Dr. Gustavo Morales.
 
-Mi enfoque de investigación se centró en el estudio de sólidos de Van der Waals a través de la teoría del Funcional de la Densidad Electrónica (DFT). Específicamente, [mi trabajo](https://drive.google.com/file/d/1IlPsFnyfzdzeKuJO72Gd7_vFMuT8oqW5/view?usp=drive_link) implicó el uso de simulaciones computacionales para comprender cómo la hidracina facilita la exfoliación del diseleniuro de titanio, tanto con como sin la presencia de cobre.
+Mi enfoque de investigación se centró en el estudio de sólidos de Van der Waals a través de la teoría del Funcional de la Densidad Electrónica (DFT). Específicamente, [mi trabajo](https://g98molina.github.io/files/Tesis_Molina.pdf) implicó el uso de simulaciones computacionales para comprender cómo la hidracina facilita la exfoliación del diseleniuro de titanio, tanto con como sin la presencia de cobre.
 
 Becas Obtenidas
 ======
@@ -30,19 +30,19 @@ Asistencia a Congresos
 A lo largo de mis ultimos años de carrera, año 2022 y 2023, he tenido el privilegio de compartir mis investigaciones en diversos congresos y simposios, contribuyendo al intercambio de conocimientos y experiencias en el ámbito científico. A continuación, se detallan algunos de los eventos en los que he participado con la presentación de posters:
 
 ### NANO 2022: XXI Encuentro de Superficies y Materiales Nanoestructurados
-- **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 dopado con Cu mediante cálculos de DFT](https://drive.google.com/file/d/1a_dDIkZtlvvU-TLGTdl9qm0EAlQQKC6Z/view?usp=drive_link).
+- **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 dopado con Cu mediante cálculos de DFT](https://g98molina.github.io/files/Resumen-NANO2022.pdf).
 - **Autores:** Molina, Gonzalo; Rosa, Álvaro; Otero, Manuel; Morales, Gustavo.
 
 ### I SiModAr: I Simposio de Modelado Multiescala para Biociencias y Nanomateriales en Argentina
-- **Título del Póster:** [Estudio mediante cálculos de primeros principios de materiales carbonosos modificados con flúor para su utilización como protección de litio metálico](https://drive.google.com/file/d/1a1pkqoDoirfE5cjm1R-L-8vEfTSWx9l3/view?usp=drive_link).
+- **Título del Póster:** [Estudio mediante cálculos de primeros principios de materiales carbonosos modificados con flúor para su utilización como protección de litio metálico](https://g98molina.github.io/files/Resumen-SIMODAR2022.pdf).
 - **Autores:** Sofía Raviolo, Gonzalo Molina, Manuel Otero y Guillermina Leticia Luque.
 
 ### 108° RAFA 2023: Reunión Anual de Física Argentina
-- **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 bidimensional dopado con 𝐶𝑢](https://drive.google.com/file/d/1T5_DcIldMbImPE6HYrD2ngimyKBaPqYG/view?usp=sharing).
+- **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 bidimensional dopado con 𝐶𝑢](https://g98molina.github.io/files/Rafa.pdf).
 - **Autores:** Molina, Gonzalo; Rosa, Álvaro; Otero, Manuel; Santo, Marisa, Morales, Gustavo.
 
 ### II Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)
-- **Título del Póster:** [Óxidos de carbono fluorados para protección de Li metálico mediante DFT](https://drive.google.com/file/d/1R5A7ddlFveliKX7PexE_bBJH0Oc5il1f/view?usp=sharing).
+- **Título del Póster:** [Óxidos de carbono fluorados para protección de Li metálico mediante DFT](https://g98molina.github.io/files/posterWER2023.pdf).
 - **Autores:** Molina, Gonzalo; Raviolo Sofía; Otero Manuel; Luque Guillermina Leticia.
 
 Estas experiencias han enriquecido mi perspectiva y me han permitido contribuir activamente a la comunidad científica, compartiendo avances y descubrimientos en mis áreas de investigación.
