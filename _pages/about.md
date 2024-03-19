@@ -51,7 +51,7 @@ Cursos de Postgrado
 ------
 Como complemento a mi formación académica, he participado en cursos de posgrado que han fortalecido mis habilidades y conocimientos. Destaco el siguiente curso:
 
-### Curso de Posgrado: “[Introducción a los Métodos de Modelado Computacional en Ciencias de los Materiales](https://drive.google.com/file/d/1y3WXQwIPXlmBdFvjs10S_er__xjUF8t7/view?usp=drive_link)”
+### Curso de Posgrado: “[Introducción a los Métodos de Modelado Computacional en Ciencias de los Materiales](g98molina.github.io/files/Programa_Curso-Introd.Modelado.Computacional.pdf)”
 - **Institución:** Universidad Nacional de La Plata.
 - **Carga Horaria (CH):** 50 horas.
 
