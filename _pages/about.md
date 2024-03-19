@@ -53,6 +53,6 @@ Como complemento a mi formación académica, he participado en cursos de posgrad
 
 ### Curso de Posgrado: “[Introducción a los Métodos de Modelado Computacional en Ciencias de los Materiales](https://drive.google.com/file/d/1y3WXQwIPXlmBdFvjs10S_er__xjUF8t7/view?usp=drive_link)”
 - **Institución:** Universidad Nacional de La Plata.
-- **Carga Horaria (CH):** 36 horas.
+- **Carga Horaria (CH):** 50 horas.
 
 Este curso proporcionó una valiosa introducción a los métodos de modelado computacional en el campo de las ciencias de los materiales, enriqueciendo mi conjunto de habilidades y ampliando mi comprensión en áreas clave de mi investigación.
