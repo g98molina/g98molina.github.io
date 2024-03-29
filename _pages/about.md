@@ -18,7 +18,7 @@ Mi enfoque de investigación se centró en el estudio de sólidos de Van der Waa
 
 Becas Obtenidas
 ======
-A lo largo de mi trayectoria académica, durante los años 2022 y 2023, he sido beneficiario de becas que han enriquecido mi experiencia en la investigación y me han permitido contribuir al avance del conocimiento. A continuación, se detallan las becas que he obtenido:
+A lo largo de mi trayectoria académica de grado, durante los años 2022 y 2023, he sido beneficiario de becas que han enriquecido mi experiencia en la investigación y me han permitido contribuir al avance del conocimiento. A continuación, se detallan las becas que he obtenido:
 
 ### Beca SeCyT (Consejo Interuniversitario Nacional)
 - **Programa de Becas:** Ayudantía de Investigación.
@@ -31,7 +31,7 @@ Estas experiencias han sido clave en mi desarrollo académico y en la adquisici�
 
 Asistencia a Congresos
 ======
-A lo largo de mis ultimos años de carrera, año 2022 y 2023, he tenido el privilegio de compartir mis investigaciones en diversos congresos y simposios, contribuyendo al intercambio de conocimientos y experiencias en el ámbito científico. A continuación, se detallan algunos de los eventos en los que he participado con la presentación de posters:
+En los últimos años, he tenido el privilegio de compartir mis investigaciones en diversos congresos y simposios, contribuyendo al intercambio de conocimientos y experiencias en el ámbito científico. A continuación, se detallan algunos de los eventos en los que he participado con la presentación de pósters:
 
 ### NANO 2022: XXI Encuentro de Superficies y Materiales Nanoestructurados
 - **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 dopado con Cu mediante cálculos de DFT](https://g98molina.github.io/files/Resumen-NANO2022.pdf).
