@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Actualmente, trabajo en el [Instituto IMDEA Nanociencia](https://www.nanociencia.imdea.org/es/) como Investigador Predoctoral. Mis principales intereses de investigación se encuentran en el área de física teórica, principalmente en el estudio de materiales condensados utilizando cálculos de primeros principios.
+Actualmente, trabajo en el [Instituto IMDEA Nanociencia](https://www.nanociencia.imdea.org/es/) como Investigador Predoctoral. Mis intereses de investigación se encuentran en el área de física teórica, principalmente en el estudio de materiales bidimensionales utilizando cálculos de primeros principios.
 
 En noviembre de 2023, obtuve mi título de grado en la Facultad de Ciencias Exactas, Físico-Químicas y Naturales de la Universidad Nacional de Río Cuarto (UNRC). Durante este período, fui dirigido por el Dr. Manuel Otero y el Dr. Gustavo Morales.
 
