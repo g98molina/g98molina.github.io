@@ -59,7 +59,7 @@ Como complemento a mi formación académica, he participado en cursos de posgrad
 - **[Certificado de Aprobación.](https://g98molina.github.io/files/cert-DFT.pdf)**
 
 ### “PWTK–2024: An Online Tutorial”
-- **Organizado por:** MaX CoE en colaboración con NCC Eslovenia..
+- **Organizado por:** MaX CoE en colaboración con NCC Eslovenia.
 - **Carga Horaria (CH):** 50 horas.
 - **[Certificado de Asistencia.](https://g98molina.github.io/files/cert-DFT.pdf)**
 
