@@ -61,6 +61,6 @@ Como complemento a mi formación académica, he participado en cursos de posgrad
 ### “PWTK–2024: An Online Tutorial”
 - **Organizado por:** MaX CoE en colaboración con NCC Eslovenia.
 - **Carga Horaria (CH):** 50 horas.
-- **[Certificado de Asistencia.](https://g98molina.github.io/files/cert-DFT.pdf)**
+- **[Certificado de Asistencia.](https://g98molina.github.io/files/GonzaloMolina_certificate-PWTK.pdf)**
 
 Estos cursos proporcionaron una valiosa herramienta en el campo de las ciencias de los materiales, ampliando mi comprensión en áreas clave de mi investigación.
