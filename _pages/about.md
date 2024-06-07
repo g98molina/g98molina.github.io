@@ -51,11 +51,16 @@ Estas experiencias han enriquecido mi perspectiva y me han permitido contribuir 
 
 Cursos de Postgrado
 ------
-Como complemento a mi formación académica, he participado en cursos de posgrado que han fortalecido mis habilidades y conocimientos. Destaco el siguiente curso:
+Como complemento a mi formación académica, he participado en cursos de posgrado que han fortalecido mis habilidades y conocimientos. Se destacan los siguientes cursos:
 
-### Curso de Posgrado: “[Introducción a los Métodos de Modelado Computacional en Ciencias de los Materiales](https://g98molina.github.io/files/Programa_Curso-Introd.Modelado.Computacional.pdf)”
+### “[Introducción a los Métodos de Modelado Computacional en Ciencias de los Materiales](https://g98molina.github.io/files/Programa_Curso-Introd.Modelado.Computacional.pdf)”
 - **Institución:** Universidad Nacional de La Plata.
 - **Carga Horaria (CH):** 50 horas.
 - **[Certificado de Aprobación.](https://g98molina.github.io/files/cert-DFT.pdf)**
 
-Este curso proporcionó una valiosa introducción a los métodos de modelado computacional en el campo de las ciencias de los materiales, enriqueciendo mi conjunto de habilidades y ampliando mi comprensión en áreas clave de mi investigación.
+### “PWTK–2024: An Online Tutorial”
+- **Organizado por:** MaX CoE en colaboración con NCC Eslovenia..
+- **Carga Horaria (CH):** 50 horas.
+- **[Certificado de Asistencia.](https://g98molina.github.io/files/cert-DFT.pdf)**
+
+Estos cursos proporcionaron una valiosa herramienta en el campo de las ciencias de los materiales, ampliando mi comprensión en áreas clave de mi investigación.
