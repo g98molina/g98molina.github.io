@@ -62,7 +62,7 @@ Como complemento a mi formación académica, he participado en cursos de posgrad
 - **Organizado por:** MaX CoE en colaboración con NCC Eslovenia.
 - **[Certificado de Asistencia.](https://g98molina.github.io/files/GonzaloMolina_certificate-PWTK.pdf)**
 
-### ''MaX school: materials and molecular modelling with QUANTUM ESPRESSO''
+### "MaX school: materials and molecular modelling with QUANTUM ESPRESSO''
 - **Organizado por:** MaX CoE en colaboración con: NCC Czechia, NCC Austria, NCC Slovakia, NCC Slovenia, NCC Poland y NCC Hungary.
 - **[Certificado de Asistencia.](https://g98molina.github.io/files/MaX_school-Molina.pdf)**
 
