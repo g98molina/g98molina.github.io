@@ -39,7 +39,7 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 ### I SiModAr: I Simposio de Modelado Multiescala para Biociencias y Nanomateriales en Argentina
 - **Título del Póster:** [Estudio mediante cálculos de primeros principios de materiales carbonosos modificados con flúor para su utilización como protección de litio metálico](https://g98molina.github.io/files/Resumen-SIMODAR2022.pdf).
 - **Autores:** Sofía Raviolo, Gonzalo Molina, Manuel Otero y Guillermina Leticia Luque.
-- **[Certificado.](https://g98molina.github.io/files/certificado_SIMODAR.pdf)**
+- **[Certificado.](https://g98molina.github.io/files/certificados_SIMODAR.pdf)**
 
 ### 108° RAFA 2023: Reunión Anual de Física Argentina
 - **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 bidimensional dopado con 𝐶𝑢](https://g98molina.github.io/files/Rafa.pdf).
