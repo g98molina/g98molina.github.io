@@ -33,11 +33,13 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 
 ### NANO 2022: XXI Encuentro de Superficies y Materiales Nanoestructurados
 - **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 dopado con Cu mediante cálculos de DFT](https://g98molina.github.io/files/Resumen-NANO2022.pdf).
-- **Autores:** 
+- **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero y Gustavo Morales.
+- **[Certificado.](https://g98molina.github.io/files/certificados_NANO.pdf)**
 
 ### I SiModAr: I Simposio de Modelado Multiescala para Biociencias y Nanomateriales en Argentina
 - **Título del Póster:** [Estudio mediante cálculos de primeros principios de materiales carbonosos modificados con flúor para su utilización como protección de litio metálico](https://g98molina.github.io/files/Resumen-SIMODAR2022.pdf).
 - **Autores:** Sofía Raviolo, Gonzalo Molina, Manuel Otero y Guillermina Leticia Luque.
+- **[Certificado.](https://g98molina.github.io/files/certificado_SIMODAR.pdf)**
 
 ### 108° RAFA 2023: Reunión Anual de Física Argentina
 - **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 bidimensional dopado con 𝐶𝑢](https://g98molina.github.io/files/Rafa.pdf).
@@ -46,10 +48,12 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 ### II Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)
 - **Título del Póster:** [Óxidos de carbono fluorados para protección de Li metálico mediante DFT](https://g98molina.github.io/files/posterWER2023.pdf).
 - **Autores:** Gonzalo Molina; Sofía  Raviolo; Manuel Otero y Guillermina Leticia Luque.
+- **[Certificado.](https://g98molina.github.io/files/certificado_WER.pdf)**
 
 ### XXXIX Reunión Bienal de la Real Sociedad Española de Física.
 - **Título del Póster:** [Study of the exfoliation of two-dimensional Cu-doped TiSe2](https://g98molina.github.io/files/Rafa.pdf).
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero and Gustavo Morales.
+- **[Certificado.](https://g98molina.github.io/files/certificados_BIENAL.pdf)**
 
 Estas experiencias han enriquecido mi perspectiva y me han permitido contribuir activamente a la comunidad científica, compartiendo avances y descubrimientos en mis áreas de investigación.
 
