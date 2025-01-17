@@ -55,6 +55,17 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero and Gustavo Morales.
 - **[Certificado.](https://g98molina.github.io/files/certificados_BIENAL.pdf)**
 
+### 14th Early Stage Researchers Workshop in Nanoscience.
+- Lugar: IMDEA Nanociencia
+- **Título del Póster:** [Phonon Dispersion in Twisted h-BN: A Continuum Model Approach](https://g98molina.github.io/files/Rafa.pdf).
+- **Autores:** Gonzalo N. Molina; Emmanuele Cappelluti, Habib Rostami, Francisco Guinea and Jose Angel Silva-Guillén.
+- **[Certificado.](https://g98molina.github.io/files/certificados_BIENAL.pdf)**
+
+### 22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods.
+- **Título del Póster:** [Study of the exfoliation of two-dimensional Cu-doped TiSe2](https://g98molina.github.io/files/Rafa.pdf).
+- **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero and Gustavo Morales.
+- **[Certificado.](https://g98molina.github.io/files/certificados_BIENAL.pdf)**
+
 Estas experiencias han enriquecido mi perspectiva y me han permitido contribuir activamente a la comunidad científica, compartiendo avances y descubrimientos en mis áreas de investigación.
 
 Cursos de Postgrado
