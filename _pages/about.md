@@ -51,17 +51,17 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 - **[Certificado.](https://g98molina.github.io/files/certificado_WER.pdf)**
 
 ### XXXIX Reunión Bienal de la Real Sociedad Española de Física.
-- **Título del Póster:** [Study of the exfoliation of two-dimensional Cu-doped TiSe2](https://g98molina.github.io/files/Rafa.pdf).
+- **Título del Póster:** [Study of the exfoliation of two-dimensional Cu-doped TiSe2](https://g98molina.github.io/files/BIENAL-abs.pdf).
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero and Gustavo Morales.
 - **[Certificado.](https://g98molina.github.io/files/certificados_BIENAL.pdf)**
 
 ### 14th Early Stage Researchers Workshop in Nanoscience.
-- **Título del Póster:** [Phonon Dispersion in Twisted h-BN: A Continuum Model Approach](https://g98molina.github.io/files/Rafa.pdf).
+- **Título del Póster:** [Phonon Dispersion in Twisted h-BN: A Continuum Model Approach](https://g98molina.github.io/files/abstracts_book_14ESRW.pdf).
 - **Autores:** Gonzalo N. Molina; Emmanuele Cappelluti, Habib Rostami, Francisco Guinea and Jose Angel Silva-Guillén.
 - **[Certificado.](https://g98molina.github.io/files/PDFMailer.pdf)**
 
 ### 22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods.
-- **Título del Póster:** [Study of the exfoliation of two-dimensional Cu-doped TiSe2](https://g98molina.github.io/files/Rafa.pdf).
+- **Título del Póster:** [Study of the exfoliation of two-dimensional Cu-doped TiSe2](https://g98molina.github.io/files/Booklet_Post._Sessions_SMR4050.pdf).
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero and Gustavo Morales.
 - **[Certificado.](https://g98molina.github.io/files/cert-ictp.pdf)**
 
