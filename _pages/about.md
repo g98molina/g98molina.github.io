@@ -65,6 +65,11 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero and Gustavo Morales.
 - **[Certificado.](https://g98molina.github.io/files/cert-ictp.pdf)**
 
+### 110° Reunión de la Asociación Física Argentina – 3ra. Reunión Conjunta AFA-SUF.
+- **Título de la presentación oral:** [Estudio teórico de la dispersión de fonones del hBN mediante un modelo continuo](https://g98molina.github.io/files/main-RAFASUF.pdf).
+- **Autores:** Gonzalo N. Molina; Emmanuele Cappelluti, Habib Rostami, Francisco Guinea y Jose Angel Silva-Guillén.
+- **[Certificado.](https://g98molina.github.io/files/RAFASUF2035.pdf)**
+
 Estas experiencias han enriquecido mi perspectiva y me han permitido contribuir activamente a la comunidad científica, compartiendo avances y descubrimientos en mis áreas de investigación.
 
 Cursos de Postgrado
