@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Microscopic Insights into Magnetic Warping and Time-Reversal Symmetry Breaking in Topological Surface States of Rare-Earth-Doped Bi<sub>2</sub>Te<sub>3</sub>"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
