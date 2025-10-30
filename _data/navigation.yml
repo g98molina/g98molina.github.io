@@ -1,6 +1,7 @@
 # main links links
 main:    
-  - title: "CV"
-    url: https://g98molina.github.io/files/cv (1).pdf
   - title: "Publicaciones"
     url: https://g98molina.github.io/publication/2009-10-01-paper-title-number-1
+  - title: "CV"
+    url: https://g98molina.github.io/files/cv (1).pdf
+
