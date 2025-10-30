@@ -64,7 +64,10 @@ layout: default
         {% include page__taxonomy.html %}
       </footer>
 
+      {% comment %}
+      Esto es para que aparezca para poder ocmpartir en face, linkedin, etc
       {% if page.share %}{% include social-share.html %}{% endif %}
+      {% endcomment %}
       
       {% comment %}
       Para que aparezcan las demas publicaciones debo descomentar eliminar las linas 69 y 72. Con eso aaparecen los carteels de netx y previous
