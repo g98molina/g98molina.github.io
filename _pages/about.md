@@ -71,7 +71,7 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 - **[Certificado.](https://g98molina.github.io/files/RAFASUF2025.pdf)**
 
 ### III Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)
-- **Título del Póster:** [Simulación DFT de grafeno y óxidos de carbono fluorados para la protección de litio metálico en baterías.].
+- **Título del Póster:** Simulación DFT de grafeno y óxidos de carbono fluorados para la protección de litio metálico en baterías.
 - **Autores:** G. N. Molina, S. Raviolo, M. Otero, L. G. Luque.
 - **[Certificado.](https://g98molina.github.io/files/WER-2025.pdf)**
 
