@@ -54,6 +54,10 @@ layout: default
             <p><a href="{{ page.paperurl }}" target="_blank">🔗 View paper</a></p>
           {% endif %}
         {% endcomment %}
+
+        {% if page.paperurl %}
+          <p><a href="{{ page.paperurl }}" target="_blank"><u>🔗</u></a></p>
+        {% endif %}
           
         </header>
       {% endunless %}
