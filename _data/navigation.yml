@@ -1,7 +1,13 @@
-# main links links
-main:    
-  - title: "Publicaciones"
-    url: https://g98molina.github.io/publication/2009-10-01-paper-title-number-1
+main:
+  - title: "About"
+    url: /
+  - title: "Becas"
+    url: /becas/
+  - title: "Congresos"
+    url: /congresos/
+  - title: "Cursos"
+    url: /cursos/
+  - title: "Otros"
+    url: /otros/
   - title: "CV"
-    url: https://g98molina.github.io/files/cv (1).pdf
-
+    url: /files/CV.pdf
