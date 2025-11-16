@@ -16,5 +16,5 @@ Estas experiencias han sido clave en mi desarrollo académico y en la adquisici�
 
 Actualmente, en continuidad con mi formación, soy beneficiario de:
 
-###Beca FPI (Formación de Personal Investigador), España.  
+### Beca FPI (Formación de Personal Investigador), España.  
 - Una ayuda predoctoral vinculada a un proyecto de investigación financiado por el Ministerio de Ciencia e Innovación, que permite desarrollar la tesis doctoral en el marco de un proyecto específico y contribuye significativamente a la formación de nuevos investigadores.
