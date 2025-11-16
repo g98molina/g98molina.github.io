@@ -1,5 +1,5 @@
 ---
-title: "Asistencia a Congresos"
+title: "Congresos"
 permalink: /congresos/
 ---
 
