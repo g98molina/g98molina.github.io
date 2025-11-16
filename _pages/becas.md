@@ -1,10 +1,8 @@
 ---
-title: "Becas"
+title: "Becas obtenidas"
 permalink: /becas/
 ---
 
-Becas Obtenidas
-======
 A lo largo de mi trayectoria académica de grado, durante los años 2022 y 2023, he sido beneficiario de becas que han enriquecido mi experiencia en la investigación y me han permitido contribuir al avance del conocimiento. A continuación, se detallan las becas que he obtenido:
 
 ### Beca SeCyT (Consejo Interuniversitario Nacional)
