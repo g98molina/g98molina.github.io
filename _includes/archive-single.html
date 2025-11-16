@@ -53,18 +53,10 @@
     {% endif %}
     
 <h4>
-  {% if post.paperurl %}
-    <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
-  {% else %}
-    {{ post.title }}
-  {% endif %}
+  <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
 </h4>
-
 <p>{{ post.venue }}, {{ post.date | date: "%Y" }}</p>
 
-{% if post.citation %}
-  <p>Recommended citation: {{ post.citation }}</p>
-{% endif %}
 
 
   </article>
