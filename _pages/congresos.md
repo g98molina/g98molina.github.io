@@ -3,7 +3,7 @@ title: "Asistencia a Congresos"
 permalink: /congresos/
 ---
 
-En los últimos años, he tenido el privilegio de compartir mis investigaciones en diversos congresos y simposios, contribuyendo al intercambio de conocimientos y experiencias en el ámbito científico. A continuación, se detallan algunos de los eventos en los que he participado con la presentación de pósters:
+En los últimos años, he tenido el privilegio de compartir mis investigaciones en diversos congresos y simposios, contribuyendo al intercambio de conocimientos y experiencias en el ámbito científico. A continuación, se detallan algunos de los eventos en los que he participado:
 
 ### NANO 2022: XXI Encuentro de Superficies y Materiales Nanoestructurados
 - **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 dopado con Cu mediante cálculos de DFT](https://g98molina.github.io/files/Resumen-NANO2022.pdf).
