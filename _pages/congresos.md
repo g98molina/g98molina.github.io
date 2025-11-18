@@ -40,9 +40,9 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 - **[Certificado.](https://g98molina.github.io/files/cert-ictp.pdf)**
 
 ### Sesión Científica Anual del Programa de Doctorado en Física de la Materia Condensada, Nanociencia y Biofísica.
-- **Título del Póster:** [Phonon Dispersion in Hexagonal Boron Nitride: A Continuum Model Approach](https://g98molina.github.io/files/Booklet_Post._Sessions_SMR4050.pdf).
+- **Título del Póster:** [Phonon Dispersion in Hexagonal Boron Nitride: A Continuum Model Approach](https://g98molina.github.io/files/libro_abstracts-71.pdf).
 - **Autores:** Gonzalo N. Molina; Emmanuele Cappelluti, Habib Rostami, Francisco Guinea and Jose Angel Silva-Guillén.
-- **[Certificado.](https://g98molina.github.io/files/FMCNB 3_merged.pdf)**
+- **[Certificado.](https://g98molina.github.io/files/FMCNB3.pdf)**
 
 ### 110° Reunión de la Asociación Física Argentina – 3ra. Reunión Conjunta AFA-SUF.
 - **Título de la presentación oral:** [Estudio teórico de la dispersión de fonones del hBN mediante un modelo continuo](https://g98molina.github.io/files/main-RAFASUF.pdf).
