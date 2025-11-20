@@ -3,7 +3,6 @@ title: "Otros"
 permalink: /otros/
 ---
 
-
 A lo largo de mi formación académica y de investigación he tenido la oportunidad de participar en diversas actividades complementarias que han enriquecido mi desarrollo profesional, tanto en el ámbito científico como en el institucional. Entre ellas, se destacan las siguientes:
 
 ## Estancia de Investigación
