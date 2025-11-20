@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Sobre mí
-
 Actualmente trabajo en el [Instituto IMDEA Nanociencia](https://www.nanociencia.imdea.org/es/) como Investigador Predoctoral, donde curso el doctorado en Física de la Materia Condensada, Nanociencia y Biofísica en la Universidad Autónoma de Madrid (UAM). Mi investigación está supervisada por el Dr. José Ángel Silva-Guillén y el Dr. Francisco Guinea.  
 Mis intereses científicos se centran en la física teórica de materiales, con un enfoque particular en el estudio de materiales bidimensionales mediante cálculos de primeros principios y técnicas basadas en la teoría del Funcional de la Densidad (DFT/DFPT).
 
