@@ -6,12 +6,12 @@ permalink: /congresos/
 En los últimos años, he tenido el privilegio de compartir mis investigaciones en diversos congresos y eventos científicos, contribuyendo al intercambio de conocimientos y experiencias en el ámbito científico. A continuación, se detallan los eventos en los que he participado:
 
 ### III Jornada de exposición de practicas experimentales en física. 
-- **Título de la presentación oral:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 dopado con Cu mediante cálculos de DFT].
+- **Título de la presentación oral:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒<sub>2</sub> dopado con Cu mediante cálculos de DFT].
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero y Gustavo Morales.
 - **[Certificado.](https://g98molina.github.io/files/jepef.pdf)**
   
 ### NANO 2022: XXI Encuentro de Superficies y Materiales Nanoestructurados
-- **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 dopado con Cu mediante cálculos de DFT](https://g98molina.github.io/files/Resumen-NANO2022.pdf).
+- **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒<sub>2</sub> dopado con Cu mediante cálculos de DFT](https://g98molina.github.io/files/Resumen-NANO2022.pdf).
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero y Gustavo Morales.
 - **[Certificado.](https://g98molina.github.io/files/certificados_NANO.pdf)**
 
