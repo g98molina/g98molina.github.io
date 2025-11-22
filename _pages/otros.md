@@ -31,7 +31,7 @@ Esta estancia culminó con una carta de reconocimiento del grupo, destacando mi 
 
 Durante mi formación de grado fui invitado a desempeñarme como jurado en concursos docentes del Departamento de Física de la UNRC:
 
-- **10/2022** – Jurado del concurso para un cargo de *Profesor Adjunto Efectivo con dedicación exclusiva*, Orientación Docente: *Especialidad I (código 2252)* — Licenciatura en Física. **[Cartificado.](https://g98molina.github.io/files/c2252.pdf)**
-- **10/2023** – Jurado del concurso para un cargo de *Profesor Adjunto Efectivo con dedicación exclusiva*, Orientación Docente: *Termodinámica y Mecánica Estadística I (código 2251)* — Licenciatura en Física. **[Cartificado.](https://g98molina.github.io/files/c2251.pdf)**
+- Jurado del concurso para un cargo de *Profesor Adjunto Efectivo con dedicación exclusiva*, Orientación Docente: *Especialidad I (código 2252)* — Licenciatura en Física. **[Cartificado.](https://g98molina.github.io/files/c2252.pdf)**
+- Jurado del concurso para un cargo de *Profesor Adjunto Efectivo con dedicación exclusiva*, Orientación Docente: *Termodinámica y Mecánica Estadística I (código 2251)* — Licenciatura en Física. **[Cartificado.](https://g98molina.github.io/files/c2251.pdf)**
 
 Estas experiencias consolidaron mi vínculo con la comunidad académica y me permitieron adquirir una perspectiva más amplia del trabajo institucional y de los procesos de selección docente.
