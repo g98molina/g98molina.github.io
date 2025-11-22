@@ -13,21 +13,20 @@ Durante este período participé activamente en trabajos relacionados con teorí
 Esta estancia culminó con una carta de reconocimiento del grupo, destacando mi dedicación, profesionalismo y contribución al intercambio científico.
 
 - **[Carta de invitación.](https://g98molina.github.io/files/cinv.pdf)**
-- **[Carta de agradecimiento.](https://g98molina.github.io/files/cagr.pdf)**
+- **[Carta de agradecimiento.](https://g98molina.github.io/files/agradec.pdf)**
 
-## Actividades de Divulgación
+## Actividades de Divulgación  
+- **Ciclo de Charlas de Divulgación “Física: Desde Átomos Hasta Volcanes” (UNRC, 2022)**  
+  Exposición oral titulada: *“¿Cómo funciona un mar de electrones?”*.   Dirigida a la Facultad de Ciencias Exactas, Físico-Químicas y Naturales de la Universidad Nacional de Río Cuarto.
+  
+  **[Cartificado.](https://g98molina.github.io/files/charla1.pdf)**
 
 - **Charla de divulgación científica (UNRC, 2025)**  
   *“Investigación Computacional en Física: Teoría del Funcional de la Densidad Electrónica. Del grado en la UNRC al doctorado en Madrid.”*  
   Dirigida a estudiantes y docentes del Departamento de Física de la Universidad Nacional de Río Cuarto.
   
-  **[Cartificado.](https://g98molina.github.io/files/charla1.pdf)**
-  
-- **Ciclo de Charlas de Divulgación “Física: Desde Átomos Hasta Volcanes” (UNRC, 2022)**  
-  Exposición oral titulada: *“¿Cómo funciona un mar de electrones?”*.   Dirigida a la Facultad de Ciencias Exactas, Físico-Químicas y Naturales de la Universidad Nacional de Río Cuarto.
-  
   **[Cartificado.](https://g98molina.github.io/files/charla2.pdf)**
-
+  
 ## Participación Institucional
 
 Durante mi formación de grado fui invitado a desempeñarme como jurado en concursos docentes del Departamento de Física de la UNRC:
