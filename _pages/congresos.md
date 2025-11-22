@@ -21,7 +21,7 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 - **[Certificado.](https://g98molina.github.io/files/certificados_SIMODAR.pdf)**
 
 ### 108° RAFA 2023: Reunión Anual de Física Argentina
-- **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒2 bidimensional dopado con 𝐶𝑢](https://g98molina.github.io/files/Rafa.pdf).
+- **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒<sub>2</sub> bidimensional dopado con 𝐶𝑢](https://g98molina.github.io/files/Rafa.pdf).
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero; Marisa Santo y Gustavo Morales. 
 
 ### II Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)
@@ -30,7 +30,7 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 - **[Certificado.](https://g98molina.github.io/files/certificado_WER.pdf)**
 
 ### XXXIX Reunión Bienal de la Real Sociedad Española de Física.
-- **Título del Póster:** [Study of the exfoliation of two-dimensional Cu-doped TiSe2](https://g98molina.github.io/files/BIENAL-abs.pdf).
+- **Título del Póster:** [Study of the exfoliation of two-dimensional Cu-doped TiSe<sub>2</sub>](https://g98molina.github.io/files/BIENAL-abs.pdf).
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero and Gustavo Morales.
 - **[Certificado.](https://g98molina.github.io/files/certificados_BIENAL.pdf)**
 
@@ -40,7 +40,7 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 - **[Certificado.](https://g98molina.github.io/files/PDFMailer.pdf)**
 
 ### 22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods.
-- **Título del Póster:** [Study of the exfoliation of two-dimensional Cu-doped TiSe2](https://g98molina.github.io/files/Booklet_Post._Sessions_SMR4050.pdf).
+- **Título del Póster:** [Study of the exfoliation of two-dimensional Cu-doped TiSe<sub>2</sub>](https://g98molina.github.io/files/Booklet_Post._Sessions_SMR4050.pdf).
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero and Gustavo Morales.
 - **[Certificado.](https://g98molina.github.io/files/cert-ictp.pdf)**
 
