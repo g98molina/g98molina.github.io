@@ -12,14 +12,19 @@ Durante este período participé activamente en trabajos relacionados con teorí
 
 Esta estancia culminó con una carta de reconocimiento del grupo, destacando mi dedicación, profesionalismo y contribución al intercambio científico.
 
+- **[Carta de invitación.](https://g98molina.github.io/files/certificados_SIMODAR.pdf)**
+- **[Carta de agradecimiento.](https://g98molina.github.io/files/certificados_SIMODAR.pdf)**
+
 ## Actividades de Divulgación
 
 - **Charla de divulgación científica (UNRC, 2025)**  
   *“Investigación Computacional en Física: Teoría del Funcional de la Densidad Electrónica. Del grado en la UNRC al doctorado en Madrid.”*  
-  Dirigida a estudiantes y docentes del Departamento de Física.
-
-- **Ciclo de Charlas de Divulgación “Física: Desde Átomos Hasta Volcanes” (10/2022)**  
-  Exposición oral titulada: *“¿Cómo funciona un mar de electrones?”*.
+  Dirigida a estudiantes y docentes del Departamento de Física de la Universidad Nacional de Río Cuarto.
+  **[Cartificado.](https://g98molina.github.io/files/certificados_SIMODAR.pdf)**
+  
+- **Ciclo de Charlas de Divulgación “Física: Desde Átomos Hasta Volcanes” (UNRC, 2022)**  
+  Exposición oral titulada: *“¿Cómo funciona un mar de electrones?”*.   Dirigida a la Facultad de Ciencias Exactas, Físico-Químicas y Naturales de la Universidad Nacional de Río Cuarto.
+  **[Cartificado.](https://g98molina.github.io/files/certificados_SIMODAR.pdf)**
 
 ## Participación Institucional
 
