@@ -41,7 +41,7 @@ Estas experiencias consolidaron mi vínculo con la comunidad académica y me per
 Durante mi etapa doctoral he participado activamente en seminarios científicos organizados por IMDEA Nanociencia, asistiendo regularmente a presentaciones impartidas por investigadores invitados, tanto nacionales como internacionales.  
 Estos seminarios han contribuido a ampliar mi formación interdisciplinaria y mantenerme actualizado en avances recientes en física del estado sólido, materiales bidimensionales y nanociencia.
 
-- **[Listado de seminarios asistidos](https://g98molina.github.io/files/seminarios-imdea.pdf)**  
+**[Listado de seminarios asistidos](https://g98molina.github.io/files/seminarios-imdea.pdf)**  
 
 ## Compromiso con la Diversidad e Inclusión
 
