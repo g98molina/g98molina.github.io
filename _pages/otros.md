@@ -35,3 +35,16 @@ Durante mi formación de grado fui invitado a desempeñarme como jurado en concu
 - Jurado del concurso para un cargo de *Profesor Adjunto Efectivo con dedicación exclusiva*, Orientación Docente: *Termodinámica y Mecánica Estadística I (código 2251)* — Licenciatura en Física. **[Cartificado.](https://g98molina.github.io/files/c2251.pdf)**
 
 Estas experiencias consolidaron mi vínculo con la comunidad académica y me permitieron adquirir una perspectiva más amplia del trabajo institucional y de los procesos de selección docente.
+
+## Seminarios Científicos
+
+Durante mi etapa doctoral he participado activamente en seminarios científicos organizados por IMDEA Nanociencia, asistiendo regularmente a presentaciones impartidas por investigadores invitados, tanto nacionales como internacionales.  
+Estos seminarios han contribuido a ampliar mi formación interdisciplinaria y mantenerme actualizado en avances recientes en física del estado sólido, materiales bidimensionales y nanociencia.
+
+- **[Listado de seminarios asistidos](https://g98molina.github.io/files/seminarios-imdea.pdf)**  
+
+## Compromiso con la Diversidad e Inclusión
+
+Además de mi formación científica, he asistido a un seminaro sobre diversidad LGTBIQ+ e inclusión en entornos de investigación, reforzando mi compromiso con una comunidad académica diversa, segura e inclusiva.
+
+**[Certificado de Diversidad e Inclusión](https://g98molina.github.io/files/sem-div.pdf)**
