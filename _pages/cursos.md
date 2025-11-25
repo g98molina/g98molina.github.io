@@ -22,11 +22,11 @@ Estos cursos proporcionaron una valiosa herramienta en el campo de las ciencias 
 
 Además, he realizado **formación en seguridad y prevención de riesgos laborales**, impartida por Vitaly Health Services, S.L., orientada a promover buenas prácticas en el entorno de trabajo. Entre los cursos completados se encuentran:
 
-### “PANTALLAS DE VISUALIZACIÓN DE DATOS: RIESGOS Y MEDIDAS PREVENTIVAS (ART. 19)”
+### “PANTALLAS DE VISUALIZACIÓN DE DATOS: RIESGOS Y MEDIDAS PREVENTIVAS”
 - **[Certificado.](https://g98molina.github.io/files/vitaly1.pdf)**
   
-### “PRINCIPIOS BÁSICOS: RIESGOS Y MEDIDAS PREVENTIVAS (ART. 19)”
+### “PRINCIPIOS BÁSICOS: RIESGOS Y MEDIDAS PREVENTIVAS”
 - **[Certificado.](https://g98molina.github.io/files/vitaly2.pdf)**
 
-### “OFICINAS Y DESPACHOS: RIESGOS Y MEDIDAS PREVENTIVAS (ART. 19)”
+### “OFICINAS Y DESPACHOS: RIESGOS Y MEDIDAS PREVENTIVAS”
 - **[Certificado.](https://g98molina.github.io/files/vitaly3.pdf)**
