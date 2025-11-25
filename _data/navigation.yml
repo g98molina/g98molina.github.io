@@ -1,8 +1,6 @@
 main:
   - title: "Publicaciones"
     url: /publications/
-  - title: "Becas"
-    url: /becas/
   - title: "Congresos"
     url: /congresos/
   - title: "Cursos"
