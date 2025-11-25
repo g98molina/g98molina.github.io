@@ -3,7 +3,24 @@ title: "Otros"
 permalink: /otros/
 ---
 
-A lo largo de mi formación académica y de investigación he tenido la oportunidad de participar en diversas actividades complementarias que han enriquecido mi desarrollo profesional, tanto en el ámbito científico como en el institucional. Entre ellas, se destacan las siguientes:
+A lo largo de mi formación académica he tenido la oportunidad de acceder a distintas becas orientadas al desarrollo de investigación científica. Estas ayudas no solo impulsaron mi participación en proyectos relevantes, sino que también fueron fundamentales para fortalecer mis habilidades en física teórica y computacional. A continuación, se presentan las becas que han acompañado y potenciado mi crecimiento como investigador:
+
+### Beca SeCyT (Consejo Interuniversitario Nacional)
+- **Programa de Becas:** Ayudantía de Investigación.
+- **Título del Plan de Beca:** Estudio de materiales bidimensionales utilizando la teoría del Funcional de la Densidad Electrónica.
+
+### Beca EVC-CIN (Estímulo a las Vocaciones Científicas)
+- **Título del Plan de Beca:** Estudio de materiales bidimensionales utilizando la teoría del Funcional de la Densidad Electrónica.
+
+Estas experiencias han sido clave en mi desarrollo académico y en la adquisición de habilidades valiosas en el ámbito de la investigación. 
+
+Actualmente, en continuidad con mi formación, soy beneficiario de:
+
+### Beca FPI (Formación de Personal Investigador), España.  
+- Una ayuda predoctoral vinculada a un proyecto de investigación financiado por el Ministerio de Ciencia e Innovación, que permite desarrollar la tesis doctoral en el marco de un proyecto específico y contribuye significativamente a la formación de nuevos investigadores.
+
+## Actividades complementarias
+Además de las becas que han acompañado mi desarrollo académico, he participado en diversas actividades complementarias que enriquecieron mi formación científica e institucional. Estas experiencias incluyen estancias de investigación, charlas de divulgación, participación en jurados académicos y asistencia regular a seminarios especializados. En conjunto, han contribuido significativamente a ampliar mi perspectiva y fortalecer mi integración en la comunidad académica. A continuación, se detallan las principales actividades que han complementado y enriquecido mi formación.
 
 ## Estancia de Investigación
 
