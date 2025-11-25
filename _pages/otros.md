@@ -19,7 +19,6 @@ Actualmente, en continuidad con mi formación, soy beneficiario de:
 ### Beca FPI (Formación de Personal Investigador), España.  
 - Una ayuda predoctoral vinculada a un proyecto de investigación financiado por el Ministerio de Ciencia e Innovación, que permite desarrollar la tesis doctoral en el marco de un proyecto específico y contribuye significativamente a la formación de nuevos investigadores.
 
-## Actividades complementarias
 Además de las becas que han acompañado mi desarrollo académico, he participado en diversas actividades complementarias que enriquecieron mi formación científica e institucional. Estas experiencias incluyen estancias de investigación, charlas de divulgación, participación en jurados académicos y asistencia regular a seminarios especializados. En conjunto, han contribuido significativamente a ampliar mi perspectiva y fortalecer mi integración en la comunidad académica. A continuación, se detallan las principales actividades que han complementado y enriquecido mi formación.
 
 ### Estancia de Investigación
