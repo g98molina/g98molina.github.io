@@ -40,6 +40,12 @@ Esta estancia culminó con una carta de reconocimiento del grupo, destacando mi 
 - **Charla de divulgación científica (UNRC, 2025)**  
   *“Investigación Computacional en Física: Teoría del Funcional de la Densidad Electrónica. Del grado en la UNRC al doctorado en Madrid.”*  
   Dirigida a estudiantes y docentes del Departamento de Física de la Universidad Nacional de Río Cuarto.
+
+- **Semana de la Ciencia y la Innovación 2025 (IMDEA Nanociencia)**  
+  Participación en el taller *“Las formas del carbono: taller 3D con moléculas y efecto moiré”*.  
+  Actividad divulgativa dirigida a niños, con una duración de 1h 30 min y una asistencia de 85 visitantes.  
+  **[Certificado.](https://g98molina.github.io/files/semana_ciencia.pdf)**
+
   
   **[Cartificado.](https://g98molina.github.io/files/charla2.pdf)**
   
