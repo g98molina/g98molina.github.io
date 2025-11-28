@@ -32,6 +32,8 @@ Esta estancia culminó con una carta de reconocimiento del grupo, destacando mi 
 - **[Carta de agradecimiento.](https://g98molina.github.io/files/agradec.pdf)**
 
 ### Actividades de Divulgación  
+He participado en diversas acciones de divulgación científica dirigidas a estudiantes, docentes y público general, contribuyendo a acercar la física y la investigación a la comunidad:
+
 - **Ciclo de Charlas de Divulgación “Física: Desde Átomos Hasta Volcanes” (UNRC, 2022)**  
   Exposición oral titulada: *“¿Cómo funciona un mar de electrones?”*.   Dirigida a la Facultad de Ciencias Exactas, Físico-Químicas y Naturales de la Universidad Nacional de Río Cuarto.
 
