@@ -34,12 +34,12 @@ Esta estancia culminó con una carta de reconocimiento del grupo, destacando mi 
 ### Actividades de Divulgación  
 - **Ciclo de Charlas de Divulgación “Física: Desde Átomos Hasta Volcanes” (UNRC, 2022)**  
   Exposición oral titulada: *“¿Cómo funciona un mar de electrones?”*.   Dirigida a la Facultad de Ciencias Exactas, Físico-Químicas y Naturales de la Universidad Nacional de Río Cuarto.
-  
   **[Cartificado.](https://g98molina.github.io/files/charla1.pdf)**
 
 - **Charla de divulgación científica (UNRC, 2025)**  
   *“Investigación Computacional en Física: Teoría del Funcional de la Densidad Electrónica. Del grado en la UNRC al doctorado en Madrid.”*  
   Dirigida a estudiantes y docentes del Departamento de Física de la Universidad Nacional de Río Cuarto.
+  **[Cartificado.](https://g98molina.github.io/files/charla2.pdf)**
 
 - **Semana de la Ciencia y la Innovación 2025 (IMDEA Nanociencia)**  
   Participación en el taller *“Las formas del carbono: taller 3D con moléculas y efecto moiré”*.  
@@ -47,7 +47,7 @@ Esta estancia culminó con una carta de reconocimiento del grupo, destacando mi 
   **[Certificado.](https://g98molina.github.io/files/semana_ciencia.pdf)**
 
   
-  **[Cartificado.](https://g98molina.github.io/files/charla2.pdf)**
+
   
 ### Participación Institucional
 
