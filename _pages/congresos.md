@@ -21,8 +21,9 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 - **[Certificado.](https://g98molina.github.io/files/certificados_SIMODAR.pdf)**
 
 ### 108° RAFA 2023: Reunión Anual de Física Argentina
-- **Título del Póster:** [Estudio de la exfoliación de 𝑇𝑖𝑆𝑒<sub>2</sub> bidimensional dopado con 𝐶𝑢](https://g98molina.github.io/files/Rafa.pdf).
-- **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero; Marisa Santo y Gustavo Morales. 
+- **Título del Póster:** Estudio de la exfoliación de 𝑇𝑖𝑆𝑒<sub>2</sub> bidimensional dopado con 𝐶𝑢.
+- **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero; Marisa Santo y Gustavo Morales.
+-  [Book of abstracts](https://g98molina.github.io/files/Rafa.pdf) 
 
 ### II Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)
 - **Título del Póster:** [Óxidos de carbono fluorados para protección de Li metálico mediante DFT](https://g98molina.github.io/files/posterWER2023.pdf).
@@ -30,29 +31,34 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 - **[Certificado.](https://g98molina.github.io/files/certificado_WER.pdf)**
 
 ### XXXIX Reunión Bienal de la Real Sociedad Española de Física.
-- **Título del Póster:** [Study of the exfoliation of two-dimensional Cu-doped TiSe<sub>2</sub>](https://g98molina.github.io/files/BIENAL-abs.pdf).
+- **Título del Póster:** Study of the exfoliation of two-dimensional Cu-doped TiSe<sub>2</sub>.
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero and Gustavo Morales.
 - **[Certificado.](https://g98molina.github.io/files/certificados_BIENAL.pdf)**
+-  [Book of abstracts](https://g98molina.github.io/files/BIENAL-abs.pdf)
 
 ### 14th Early Stage Researchers Workshop in Nanoscience.
-- **Título del Póster:** [Phonon Dispersion in Twisted h-BN: A Continuum Model Approach](https://g98molina.github.io/files/abstracts_book_14ESRW.pdf).
+- **Título del Póster:** Phonon Dispersion in Twisted h-BN: A Continuum Model Approach.
 - **Autores:** Gonzalo N. Molina; Emmanuele Cappelluti, Habib Rostami, Francisco Guinea and Jose Angel Silva-Guillén.
 - **[Certificado.](https://g98molina.github.io/files/PDFMailer.pdf)**
+-  [Book of abstracts](https://g98molina.github.io/files/abstracts_book_14ESRW.pdf)
 
 ### 22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods.
-- **Título del Póster:** [Study of the exfoliation of two-dimensional Cu-doped TiSe<sub>2</sub>](https://g98molina.github.io/files/Booklet_Post._Sessions_SMR4050.pdf).
+- **Título del Póster:** Study of the exfoliation of two-dimensional Cu-doped TiSe<sub>2</sub>.
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero and Gustavo Morales.
 - **[Certificado.](https://g98molina.github.io/files/cert-ictp.pdf)**
+-  [Book of abstracts](https://g98molina.github.io/files/Booklet_Post._Sessions_SMR4050.pdf)
 
 ### Sesión Científica Anual del Programa de Doctorado en Física de la Materia Condensada, Nanociencia y Biofísica.
-- **Título del Póster:** [Phonon Dispersion in Hexagonal Boron Nitride: A Continuum Model Approach](https://g98molina.github.io/files/libro_abstracts-71.pdf).
+- **Título del Póster:** Phonon Dispersion in Hexagonal Boron Nitride: A Continuum Model Approach.
 - **Autores:** Gonzalo N. Molina; Emmanuele Cappelluti, Habib Rostami, Francisco Guinea and Jose Angel Silva-Guillén.
 - **[Certificado.](https://g98molina.github.io/files/FMCNB3.pdf)**
+-  [Book of abstracts](https://g98molina.github.io/files/libro_abstracts-71.pdf)
 
 ### 110° Reunión de la Asociación Física Argentina – 3ra. Reunión Conjunta AFA-SUF.
-- **Título de la presentación oral:** [Estudio teórico de la dispersión de fonones del hBN mediante un modelo continuo](https://g98molina.github.io/files/main-RAFASUF.pdf).
+- **Título de la presentación oral:** Estudio teórico de la dispersión de fonones del hBN mediante un modelo continuo.
 - **Autores:** Gonzalo N. Molina; Emmanuele Cappelluti, Habib Rostami, Francisco Guinea y Jose Angel Silva-Guillén.
 - **[Certificado.](https://g98molina.github.io/files/RAFASUF2025.pdf)**
+-  [Book of abstracts](https://g98molina.github.io/files/main-RAFASUF.pdf)
 
 ### III Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)
 - **Título del Póster:** Simulación DFT de grafeno y óxidos de carbono fluorados para la protección de litio metálico en baterías.
