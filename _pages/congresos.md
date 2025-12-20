@@ -23,7 +23,7 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 ### 108° RAFA 2023: Reunión Anual de Física Argentina
 - **Título del Póster:** Estudio de la exfoliación de 𝑇𝑖𝑆𝑒<sub>2</sub> bidimensional dopado con 𝐶𝑢.
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero; Marisa Santo y Gustavo Morales.
--  [Book of abstracts](https://g98molina.github.io/files/Rafa.pdf) 
+-  [Book of abstracts](https://g98molina.github.io/files/Libro_108RAFA.pdf) 
 
 ### II Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)
 - **Título del Póster:** [Óxidos de carbono fluorados para protección de Li metálico mediante DFT](https://g98molina.github.io/files/posterWER2023.pdf).
