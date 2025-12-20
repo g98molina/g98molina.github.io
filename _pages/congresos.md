@@ -20,7 +20,7 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 - **Título del Póster:** Estudio mediante cálculos de primeros principios de materiales carbonosos modificados con flúor para su utilización como protección de litio metálico.
 - **Autores:** Sofía Raviolo, Gonzalo Molina, Manuel Otero y Guillermina Leticia Luque.
 - **[Certificado.](https://g98molina.github.io/files/certificados_SIMODAR.pdf)**
-- [Abstracts](https://g98molina.github.io/files/Resumen-SIMODAR2022.pdf)
+- [Abstract](https://g98molina.github.io/files/Resumen-SIMODAR2022.pdf)
 
 ### 108° RAFA 2023: Reunión Anual de Física Argentina
 - **Título del Póster:** Estudio de la exfoliación de 𝑇𝑖𝑆𝑒<sub>2</sub> bidimensional dopado con 𝐶𝑢.
