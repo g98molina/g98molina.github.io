@@ -70,7 +70,7 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 ### 15th Early Stage Researchers Workshop in Nanoscience.
 - **Título del Póster:** First-principles calculations of magnetic defects in rare-earth-doped Bi<sub>2</sub>Te<sub>3</sub>.
 - **Autores:** G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barla, M. G. Cuxart, P. Gargiani, J. A. Silva-Guillén, A. I. Figueroa, K. García-Díez, S. O. Valenzuela, A. Mugarza, A.L. Vázquez de Parga, R. Miranda, F. Guinea, M. Garnica, and M. A. Valbuena.
-- **[Certificado.](https://g98molina.github.io/files/PDFMailer.pdf)**
+- **[Certificado.](https://g98molina.github.io/files/15ESRW.pdf)**
 -  [Book of abstracts](https://g98molina.github.io/files/15ESRW-book-abstracts.pdf)
 
 Estas experiencias han enriquecido mi perspectiva y me han permitido contribuir activamente a la comunidad científica, compartiendo avances y descubrimientos en mis áreas de investigación.
