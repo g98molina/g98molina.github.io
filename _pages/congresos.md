@@ -14,7 +14,7 @@ En los últimos años, he tenido el privilegio de compartir mis investigaciones 
 - **Título del Póster:** Estudio de la exfoliación de 𝑇𝑖𝑆𝑒<sub>2</sub> dopado con Cu mediante cálculos de DFT.
 - **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero y Gustavo Morales.
 - **[Certificado.](https://g98molina.github.io/files/certificados_NANO.pdf)**
-- [Book of abstracts](Nanociencia-y-Nanotecnología-ebook-UniRío-editora.pdf)
+- [Book of abstracts](https://g98molina.github.io/files/Nanociencia-y-Nanotecnología-ebook-UniRío-editora.pd) 
 
 ### I SiModAr: I Simposio de Modelado Multiescala para Biociencias y Nanomateriales en Argentina
 - **Título del Póster:** Estudio mediante cálculos de primeros principios de materiales carbonosos modificados con flúor para su utilización como protección de litio metálico.
