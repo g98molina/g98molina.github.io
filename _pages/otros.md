@@ -54,7 +54,7 @@ He participado en diversas acciones de divulgación científica dirigidas a estu
 - **XV Feria “Madrid es Ciencia” 2026 (IMDEA Nanociencia)**  
   Participación como expositor en el stand conjunto de los institutos IMDEA durante la feria celebrada en La Nave (Madrid) los días 19, 20 y 21 de marzo de 2026. Se presentaron actividades de divulgación científica orientadas al público general, mostrando la investigación desarrollada en IMDEA Nanociencia y acercando conceptos de nanociencia a visitantes de diversas edades.  
 
-   **[Certificado.](https://g98molina.github.io/files/s)**
+   **[Certificado.](https://g98molina.github.io/files/feria2026.pdf)**
   
 ### Participación Institucional
 
