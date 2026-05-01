@@ -194,3 +194,13 @@ body {
   display: block !important;
   visibility: visible !important;
 }
+
+/* Fix z-index menú dropdown */
+.greedy-nav {
+  position: relative;
+  z-index: 9999;
+}
+
+.hidden-links {
+  z-index: 9999 !important;
+}
