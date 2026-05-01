@@ -133,3 +133,43 @@ a {
     }
   }
 }
+
+/* Fix definitivo hidden-links */
+#site-nav .hidden-links {
+  background: #0f1923 !important;
+  position: absolute !important;
+  top: 100% !important;
+  right: 0 !important;
+  z-index: 9999 !important;
+  min-width: 180px !important;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.4) !important;
+  border: 1px solid #1e2d3d !important;
+  border-radius: 4px !important;
+  padding: 4px 0 !important;
+}
+
+#site-nav .hidden-links.hidden {
+  display: none !important;
+}
+
+#site-nav .hidden-links:not(.hidden) {
+  display: block !important;
+}
+
+#site-nav .hidden-links li {
+  display: block !important;
+  float: none !important;
+}
+
+#site-nav .hidden-links a {
+  display: block !important;
+  padding: 10px 16px !important;
+  color: #cbd5e1 !important;
+  border-bottom: 1px solid #1e2d3d !important;
+  font-size: 0.9em !important;
+}
+
+#site-nav .hidden-links a:hover {
+  color: #ffffff !important;
+  background: rgba(255,255,255,0.08) !important;
+}
