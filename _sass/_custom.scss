@@ -173,3 +173,24 @@ a {
   color: #ffffff !important;
   background: rgba(255,255,255,0.08) !important;
 }
+
+/* Fix fondo violeta */
+body {
+  background: #ffffff !important;
+  color: #334155 !important;
+}
+
+.page {
+  background: #ffffff !important;
+}
+
+/* Fix clase hidden global */
+.hidden-links.hidden {
+  display: none !important;
+  visibility: hidden !important;
+}
+
+.hidden-links:not(.hidden) {
+  display: block !important;
+  visibility: visible !important;
+}
