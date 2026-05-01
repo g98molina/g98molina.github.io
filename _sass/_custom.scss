@@ -2,13 +2,11 @@
    CUSTOM STYLES — Gonzalo N. Molina
    ========================================================================== */
 
-/* Pulse dot para el email en sidebar */
 @keyframes pulse {
   0%, 100% { opacity: 1; transform: scale(1); }
   50%       { opacity: 0.4; transform: scale(0.7); }
 }
 
-/* ── Badges de herramientas técnicas ── */
 .author-badges {
   margin-top: 0.8em;
   width: 100%;
@@ -43,13 +41,11 @@
   }
 }
 
-/* ── Links con acento verde ── */
 a {
   color: $primary-color;
   &:hover { color: mix(#000, $primary-color, 25%); }
 }
 
-/* ── Headings con acento sutil ── */
 .page__content {
   h2 {
     border-bottom: 1px solid #E1F5EE;
@@ -64,7 +60,6 @@ a {
   }
 }
 
-/* ── Sidebar author ── */
 .sidebar .author__name {
   color: #0f1923;
   font-weight: 600;
@@ -76,9 +71,8 @@ a {
   line-height: 1.5;
 }
 
-/* ── Navegación activa ── */
 .greedy-nav {
-  background: transparent;
+  background: #0f1923;
 
   a {
     color: #94a3b8;
@@ -93,5 +87,38 @@ a {
   .visible-links a:first-child {
     color: #ffffff;
     font-weight: 500;
+  }
+
+  button {
+    background: transparent;
+    border: 1px solid #94a3b8;
+    border-radius: 4px;
+    padding: 4px 6px;
+
+    &:hover {
+      background: rgba(255,255,255,0.1);
+    }
+
+    .navicon,
+    .navicon::before,
+    .navicon::after {
+      background: #ffffff;
+    }
+  }
+
+  .hidden-links {
+    background: #0f1923;
+    border: 0.5px solid #1e2d3d;
+    border-radius: 4px;
+
+    a {
+      color: #94a3b8;
+      border-bottom: 0.5px solid #1e2d3d;
+
+      &:hover {
+        color: #ffffff;
+        background: rgba(255,255,255,0.05);
+      }
+    }
   }
 }
