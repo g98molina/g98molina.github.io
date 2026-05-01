@@ -5,7 +5,7 @@ main:
     url: /congresos/
   - title: "Cursos"
     url: /cursos/
-  - title: "Otros"
+  - title: "Actividades"
     url: /otros/
   - title: "CV"
     url: /files/cv-full.pdf

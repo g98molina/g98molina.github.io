@@ -1,79 +1,87 @@
 ---
-title: "Otros"
+title: "Actividades"
 permalink: /otros/
+author_profile: true
 ---
 
-A lo largo de mi formación académica he tenido la oportunidad de acceder a distintas becas orientadas al desarrollo de investigación científica. Estas ayudas no solo impulsaron mi participación en proyectos relevantes, sino que también fueron fundamentales para fortalecer mis habilidades en física teórica y computacional. A continuación, se presentan las becas que han acompañado y potenciado mi crecimiento como investigador:
+## Becas
 
-### Beca SeCyT (Consejo Interuniversitario Nacional)
-- **Programa de Becas:** Ayudantía de Investigación.
-- **Título del Plan de Beca:** Estudio de materiales bidimensionales utilizando la teoría del Funcional de la Densidad Electrónica.
+**Beca SeCyT – Ayudantía de Investigación** *(Consejo Interuniversitario Nacional)*
+"Estudio de materiales bidimensionales utilizando la teoría del Funcional de la Densidad Electrónica."
 
-### Beca EVC-CIN (Estímulo a las Vocaciones Científicas)
-- **Título del Plan de Beca:** Estudio de materiales bidimensionales utilizando la teoría del Funcional de la Densidad Electrónica.
+---
 
-Estas experiencias han sido clave en mi desarrollo académico y en la adquisición de habilidades valiosas en el ámbito de la investigación. 
+**Beca EVC-CIN – Estímulo a las Vocaciones Científicas**
+"Estudio de materiales bidimensionales utilizando la teoría del Funcional de la Densidad Electrónica."
 
-Actualmente, en continuidad con mi formación, soy beneficiario de:
+---
 
-### Beca FPI (Formación de Personal Investigador), España.  
-- Una ayuda predoctoral vinculada a un proyecto de investigación financiado por el Ministerio de Ciencia e Innovación, que permite desarrollar la tesis doctoral en el marco de un proyecto específico y contribuye significativamente a la formación de nuevos investigadores.
+**Beca FPI – Formación de Personal Investigador** *(España)*
+Ayuda predoctoral vinculada a proyecto del Ministerio de Ciencia e Innovación, para el desarrollo de la tesis doctoral.
 
-Además de las becas que han acompañado mi desarrollo académico, he participado en diversas actividades complementarias que enriquecieron mi formación científica e institucional. Estas experiencias incluyen estancias de investigación, charlas de divulgación, participación en jurados académicos y asistencia regular a seminarios especializados. En conjunto, han contribuido significativamente a ampliar mi perspectiva y fortalecer mi integración en la comunidad académica. A continuación, se detallan las principales actividades que han complementado y enriquecido mi formación.
+---
 
-### Estancia de Investigación
+## Estancia de Investigación
 
-Realicé una estancia de investigación en el Departamento de Física de la Universidad Nacional de Río Cuarto (UNRC), colaborando con el Grupo de Física de Materiales (24 de septiembre – 25 de octubre de 2025).  
-Durante este período participé activamente en trabajos relacionados con teoría del funcional de la densidad electrónica (DFT), especialmente en estudios de adsorción atómica en materiales bidimensionales, fortaleciendo líneas de investigación conjuntas y promoviendo un valioso intercambio académico.
+**Departamento de Física, Universidad Nacional de Río Cuarto (UNRC)** *(septiembre–octubre 2025)*
+Colaboración con el Grupo de Física de Materiales en estudios DFT de adsorción atómica en materiales bidimensionales.
+[[Carta de invitación]](https://g98molina.github.io/files/cinv.pdf) · [[Carta de agradecimiento]](https://g98molina.github.io/files/agradec.pdf)
 
-Esta estancia culminó con una carta de reconocimiento del grupo, destacando mi dedicación, profesionalismo y contribución al intercambio científico.
+---
 
-- **[Carta de invitación.](https://g98molina.github.io/files/cinv.pdf)**
-- **[Carta de agradecimiento.](https://g98molina.github.io/files/agradec.pdf)**
+## Actividades de Divulgación
 
-### Actividades de Divulgación  
-He participado en diversas acciones de divulgación científica dirigidas a estudiantes, docentes y público general, contribuyendo a acercar la física y la investigación a la comunidad:
+**"¿Cómo funciona un mar de electrones?"** *(UNRC, 2022)*
+Ciclo de Charlas "Física: Desde Átomos Hasta Volcanes". Presentación oral dirigida a la Facultad de Ciencias Exactas, Físico-Químicas y Naturales de la UNRC.
+[[Certificado]](https://g98molina.github.io/files/charla1.pdf)
 
-- **Ciclo de Charlas de Divulgación “Física: Desde Átomos Hasta Volcanes” (UNRC, 2022)**  
-  Exposición oral titulada: *“¿Cómo funciona un mar de electrones?”*.   Dirigida a la Facultad de Ciencias Exactas, Físico-Químicas y Naturales de la Universidad Nacional de Río Cuarto.
+---
 
-  **[Cartificado.](https://g98molina.github.io/files/charla1.pdf)**
+**"Investigación Computacional en Física: DFT. Del grado en la UNRC al doctorado en Madrid."** *(UNRC, 2025)*
+Charla dirigida a estudiantes y docentes del Departamento de Física de la UNRC.
+[[Certificado]](https://g98molina.github.io/files/charla2.pdf)
 
-- **Charla de divulgación científica (UNRC, 2025)**  
-  *“Investigación Computacional en Física: Teoría del Funcional de la Densidad Electrónica. Del grado en la UNRC al doctorado en Madrid.”*  
-  Dirigida a estudiantes y docentes del Departamento de Física de la Universidad Nacional de Río Cuarto.
+---
 
-  **[Cartificado.](https://g98molina.github.io/files/charla2.pdf)**
+**Semana de la Ciencia y la Innovación 2025** *(IMDEA Nanociencia)*
+Taller "Las formas del carbono: taller 3D con moléculas y efecto moiré", dirigido a niños. 1h 30 min · 85 visitantes.
+[[Certificado]](https://g98molina.github.io/files/semana_ciencia.pdf)
 
-- **Semana de la Ciencia y la Innovación 2025 (IMDEA Nanociencia)**  
-  Participación en el taller *“Las formas del carbono: taller 3D con moléculas y efecto moiré”*.  
-  Actividad divulgativa dirigida a niños, con una duración de 1h 30 min y una asistencia de 85 visitantes.  
+---
 
-   **[Certificado.](https://g98molina.github.io/files/semana_ciencia.pdf)**
+**XV Feria "Madrid es Ciencia" 2026** *(IMDEA Nanociencia)*
+Expositor en el stand conjunto de los institutos IMDEA en La Nave (Madrid), 19–21 de marzo de 2026. Actividades de divulgación sobre nanociencia dirigidas al público general.
+[[Certificado]](https://g98molina.github.io/files/feria2026.pdf)
 
-- **XV Feria “Madrid es Ciencia” 2026 (IMDEA Nanociencia)**  
-  Participación como expositor en el stand conjunto de los institutos IMDEA durante la feria celebrada en La Nave (Madrid) los días 19, 20 y 21 de marzo de 2026. Se presentaron actividades de divulgación científica orientadas al público general, mostrando la investigación desarrollada en IMDEA Nanociencia y acercando conceptos de nanociencia a visitantes de diversas edades.  
+---
 
-   **[Certificado.](https://g98molina.github.io/files/feria2026.pdf)**
-  
-### Participación Institucional
+## Participación Institucional
 
-Durante mi formación de grado fui invitado a desempeñarme como jurado en concursos docentes del Departamento de Física de la UNRC:
+Jurado en concursos docentes del Departamento de Física de la UNRC:
 
-- Jurado del concurso para un cargo de *Profesor Adjunto Efectivo con dedicación exclusiva*, Orientación Docente: *Especialidad I (código 2252)* — Licenciatura en Física. **[Cartificado.](https://g98molina.github.io/files/c2252.pdf)**
-- Jurado del concurso para un cargo de *Profesor Adjunto Efectivo con dedicación exclusiva*, Orientación Docente: *Termodinámica y Mecánica Estadística I (código 2251)* — Licenciatura en Física. **[Cartificado.](https://g98molina.github.io/files/c2251.pdf)**
+- Concurso para *Profesor Adjunto Efectivo*, Especialidad I (código 2252) — Licenciatura en Física. [[Certificado]](https://g98molina.github.io/files/c2252.pdf)
+- Concurso para *Profesor Adjunto Efectivo*, Termodinámica y Mecánica Estadística I (código 2251) — Licenciatura en Física. [[Certificado]](https://g98molina.github.io/files/c2251.pdf)
 
-Estas experiencias consolidaron mi vínculo con la comunidad académica y me permitieron adquirir una perspectiva más amplia del trabajo institucional y de los procesos de selección docente.
+---
 
-### Seminarios Científicos
+## Seminarios Científicos
 
-Durante mi etapa doctoral he participado activamente en seminarios científicos organizados por IMDEA Nanociencia, asistiendo regularmente a presentaciones impartidas por investigadores invitados, tanto nacionales como internacionales.  
-Estos seminarios han contribuido a ampliar mi formación interdisciplinaria y mantenerme actualizado en avances recientes en física del estado sólido, materiales bidimensionales y nanociencia.
+Asistencia regular a seminarios de IMDEA Nanociencia con investigadores nacionales e internacionales, en áreas de física del estado sólido, materiales bidimensionales y nanociencia.
+[[Listado de seminarios]](https://g98molina.github.io/files/seminarios-imdea_merged.pdf)
 
-**[Listado de seminarios asistidos](https://g98molina.github.io/files/seminarios-imdea_merged.pdf)**  
+---
 
-### Compromiso con la Diversidad e Inclusión
+## Compromiso con la Diversidad e Inclusión
 
-Además de mi formación científica, he asistido a un seminaro sobre diversidad LGTBIQ+ e inclusión en entornos de investigación, reforzando mi compromiso con una comunidad académica diversa, segura e inclusiva.
+Asistencia a seminario sobre diversidad LGTBIQ+ e inclusión en entornos de investigación.
+[[Certificado]](https://g98molina.github.io/files/sem-div.pdf)
 
-**[Certificado de Diversidad e Inclusión](https://g98molina.github.io/files/sem-div.pdf)**
+---
+
+## Formación en Prevención de Riesgos Laborales
+
+*Vitaly Health Services, S.L.*
+
+- "Pantallas de visualización de datos: riesgos y medidas preventivas." [[Certificado]](https://g98molina.github.io/files/vitaly1.pdf)
+- "Principios básicos: riesgos y medidas preventivas." [[Certificado]](https://g98molina.github.io/files/vitaly2.pdf)
+- "Oficinas y despachos: riesgos y medidas preventivas." [[Certificado]](https://g98molina.github.io/files/vitaly3.pdf)

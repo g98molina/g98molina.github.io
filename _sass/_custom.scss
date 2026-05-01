@@ -1,0 +1,97 @@
+/* ==========================================================================
+   CUSTOM STYLES — Gonzalo N. Molina
+   ========================================================================== */
+
+/* Pulse dot para el email en sidebar */
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: 0.4; transform: scale(0.7); }
+}
+
+/* ── Badges de herramientas técnicas ── */
+.author-badges {
+  margin-top: 0.8em;
+  width: 100%;
+
+  .badges-title {
+    font-size: 0.6em;
+    color: $gray;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 0.5em;
+  }
+
+  .badges-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    justify-content: center;
+  }
+
+  .badge {
+    font-size: 0.6em;
+    padding: 2px 7px;
+    border-radius: 4px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+
+    &--teal   { background: #E1F5EE; color: #0F6E56; }
+    &--blue   { background: #e6f1fb; color: #185FA5; }
+    &--gray   { background: #f1efe8; color: #5F5E5A; }
+    &--purple { background: #EEEDFE; color: #534AB7; }
+  }
+}
+
+/* ── Links con acento verde ── */
+a {
+  color: $primary-color;
+  &:hover { color: mix(#000, $primary-color, 25%); }
+}
+
+/* ── Headings con acento sutil ── */
+.page__content {
+  h2 {
+    border-bottom: 1px solid #E1F5EE;
+    padding-bottom: 0.3em;
+    color: #0f1923;
+  }
+
+  h3 {
+    color: #1D9E75;
+    font-size: 0.95em;
+    font-weight: 600;
+  }
+}
+
+/* ── Sidebar author ── */
+.sidebar .author__name {
+  color: #0f1923;
+  font-weight: 600;
+}
+
+.sidebar .author__bio {
+  color: $gray;
+  font-size: 0.8em;
+  line-height: 1.5;
+}
+
+/* ── Navegación activa ── */
+.greedy-nav {
+  background: transparent;
+
+  a {
+    color: #94a3b8;
+    font-size: 0.85em;
+    letter-spacing: 0.03em;
+
+    &:hover {
+      color: #ffffff;
+    }
+  }
+
+  .visible-links a:first-child {
+    color: #ffffff;
+    font-weight: 500;
+  }
+}

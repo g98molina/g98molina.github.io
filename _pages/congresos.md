@@ -1,76 +1,99 @@
 ---
-title: "Asistencia a Congresos"
+title: "Congresos"
 permalink: /congresos/
+author_profile: true
 ---
 
-En los últimos años, he tenido el privilegio de compartir mis investigaciones en diversos congresos y eventos científicos, contribuyendo al intercambio de conocimientos y experiencias en el ámbito científico. A continuación, se detallan los eventos en los que he participado:
+**III Jornada de exposición de prácticas experimentales en física**
+*Presentación oral* · Universidad Nacional de Río Cuarto, Argentina
+"Estudio de la exfoliación de TiSe₂ dopado con Cu mediante cálculos de DFT."
+G. Molina, Á. Rosa, M. Otero y G. Morales.
+[[Certificado]](https://g98molina.github.io/files/jepef.pdf)
 
-### III Jornada de exposición de practicas experimentales en física. 
-- **Título de la presentación oral:** Estudio de la exfoliación de 𝑇𝑖𝑆𝑒<sub>2</sub> dopado con Cu mediante cálculos de DFT.
-- **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero y Gustavo Morales.
-- **[Certificado.](https://g98molina.github.io/files/jepef.pdf)**
-  
-### NANO 2022: XXI Encuentro de Superficies y Materiales Nanoestructurados
-- **Título del Póster:** Estudio de la exfoliación de 𝑇𝑖𝑆𝑒<sub>2</sub> dopado con Cu mediante cálculos de DFT.
-- **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero y Gustavo Morales.
-- **[Certificado.](https://g98molina.github.io/files/certificados_NANO.pdf)**
-- [Book of abstracts](https://g98molina.github.io/files/Nanociencia-y-Nanotecnología-ebook-UniRío-editora.pdf) 
+---
 
-### I SiModAr: I Simposio de Modelado Multiescala para Biociencias y Nanomateriales en Argentina
-- **Título del Póster:** Estudio mediante cálculos de primeros principios de materiales carbonosos modificados con flúor para su utilización como protección de litio metálico.
-- **Autores:** Sofía Raviolo, Gonzalo Molina, Manuel Otero y Guillermina Leticia Luque.
-- **[Certificado.](https://g98molina.github.io/files/certificados_SIMODAR.pdf)**
-- [Abstract](https://g98molina.github.io/files/Resumen-SIMODAR2022.pdf)
+**NANO 2022: XXI Encuentro de Superficies y Materiales Nanoestructurados**
+*Póster* · Argentina
+"Estudio de la exfoliación de TiSe₂ dopado con Cu mediante cálculos de DFT."
+G. Molina, Á. Rosa, M. Otero y G. Morales.
+[[Certificado]](https://g98molina.github.io/files/certificados_NANO.pdf) · [[Book of abstracts]](https://g98molina.github.io/files/Nanociencia-y-Nanotecnología-ebook-UniRío-editora.pdf)
 
-### 108° RAFA 2023: Reunión Anual de Física Argentina
-- **Título del Póster:** Estudio de la exfoliación de 𝑇𝑖𝑆𝑒<sub>2</sub> bidimensional dopado con 𝐶𝑢.
-- **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero; Marisa Santo y Gustavo Morales.
--  [Book of abstracts](https://g98molina.github.io/files/Libro_108RAFA.pdf) 
+---
 
-### II Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)
-- **Título del Póster:** Óxidos de carbono fluorados para protección de Li metálico mediante DFT.
-- **Autores:** Gonzalo Molina; Sofía  Raviolo; Manuel Otero y Guillermina Leticia Luque.
-- **[Certificado.](https://g98molina.github.io/files/certificado_WER.pdf)**
+**I SiModAr: I Simposio de Modelado Multiescala para Biociencias y Nanomateriales en Argentina**
+*Póster* · Argentina
+"Estudio mediante cálculos de primeros principios de materiales carbonosos modificados con flúor para su utilización como protección de litio metálico."
+S. Raviolo, G. Molina, M. Otero y G. L. Luque.
+[[Certificado]](https://g98molina.github.io/files/certificados_SIMODAR.pdf) · [[Abstract]](https://g98molina.github.io/files/Resumen-SIMODAR2022.pdf)
 
-### XXXIX Reunión Bienal de la Real Sociedad Española de Física.
-- **Título del Póster:** Study of the exfoliation of two-dimensional Cu-doped TiSe<sub>2</sub>.
-- **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero and Gustavo Morales.
-- **[Certificado.](https://g98molina.github.io/files/certificados_BIENAL.pdf)**
--  [Book of abstracts](https://g98molina.github.io/files/BIENAL-abs.pdf)
+---
 
-### 14th Early Stage Researchers Workshop in Nanoscience.
-- **Título del Póster:** Phonon Dispersion in Twisted h-BN: A Continuum Model Approach.
-- **Autores:** Gonzalo N. Molina; Emmanuele Cappelluti, Habib Rostami, Francisco Guinea and Jose Angel Silva-Guillén.
-- **[Certificado.](https://g98molina.github.io/files/PDFMailer.pdf)**
--  [Book of abstracts](https://g98molina.github.io/files/abstracts_book_14ESRW.pdf)
+**108° RAFA 2023: Reunión Anual de Física Argentina**
+*Póster* · Argentina
+"Estudio de la exfoliación de TiSe₂ bidimensional dopado con Cu."
+G. Molina, Á. Rosa, M. Otero, M. Santo y G. Morales.
+[[Book of abstracts]](https://g98molina.github.io/files/Libro_108RAFA.pdf)
 
-### 22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods.
-- **Título del Póster:** Study of the exfoliation of two-dimensional Cu-doped TiSe<sub>2</sub>.
-- **Autores:** Gonzalo Molina; Álvaro Rosa; Manuel Otero and Gustavo Morales.
-- **[Certificado.](https://g98molina.github.io/files/cert-ictp.pdf)**
--  [Book of abstracts](https://g98molina.github.io/files/Booklet_Post._Sessions_SMR4050.pdf)
+---
 
-### Sesión Científica Anual del Programa de Doctorado en Física de la Materia Condensada, Nanociencia y Biofísica.
-- **Título del Póster:** Phonon Dispersion in Hexagonal Boron Nitride: A Continuum Model Approach.
-- **Autores:** Gonzalo N. Molina; Emmanuele Cappelluti, Habib Rostami, Francisco Guinea and Jose Angel Silva-Guillén.
-- **[Certificado.](https://g98molina.github.io/files/FMCNB3.pdf)**
--  [Book of abstracts](https://g98molina.github.io/files/libro_abstracts-71.pdf)
+**II Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)**
+*Póster* · Argentina
+"Óxidos de carbono fluorados para protección de Li metálico mediante DFT."
+G. Molina, S. Raviolo, M. Otero y G. L. Luque.
+[[Certificado]](https://g98molina.github.io/files/certificado_WER.pdf)
 
-### 110° Reunión de la Asociación Física Argentina – 3ra. Reunión Conjunta AFA-SUF.
-- **Título de la presentación oral:** Estudio teórico de la dispersión de fonones del hBN mediante un modelo continuo.
-- **Autores:** Gonzalo N. Molina; Emmanuele Cappelluti, Habib Rostami, Francisco Guinea y Jose Angel Silva-Guillén.
-- **[Certificado.](https://g98molina.github.io/files/RAFASUF2025.pdf)**
--  [Book of abstracts](https://g98molina.github.io/files/main-RAFASUF.pdf)
+---
 
-### III Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)
-- **Título del Póster:** Simulación DFT de grafeno y óxidos de carbono fluorados para la protección de litio metálico en baterías.
-- **Autores:** G. N. Molina, S. Raviolo, M. Otero, L. G. Luque.
-- **[Certificado.](https://g98molina.github.io/files/WER-2025.pdf)**
+**XXXIX Reunión Bienal de la Real Sociedad Española de Física**
+*Póster* · España
+"Study of the exfoliation of two-dimensional Cu-doped TiSe₂."
+G. Molina, Á. Rosa, M. Otero y G. Morales.
+[[Certificado]](https://g98molina.github.io/files/certificados_BIENAL.pdf) · [[Book of abstracts]](https://g98molina.github.io/files/BIENAL-abs.pdf)
 
-### 15th Early Stage Researchers Workshop in Nanoscience.
-- **Título del Póster:** First-principles calculations of magnetic defects in rare-earth-doped Bi<sub>2</sub>Te<sub>3</sub>.
-- **Autores:** G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barla, M. G. Cuxart, P. Gargiani, J. A. Silva-Guillén, A. I. Figueroa, K. García-Díez, S. O. Valenzuela, A. Mugarza, A.L. Vázquez de Parga, R. Miranda, F. Guinea, M. Garnica, and M. A. Valbuena.
-- **[Certificado.](https://g98molina.github.io/files/15ESRW.pdf)**
--  [Book of abstracts](https://g98molina.github.io/files/15ESRW-book-abstracts.pdf)
+---
 
-Estas experiencias han enriquecido mi perspectiva y me han permitido contribuir activamente a la comunidad científica, compartiendo avances y descubrimientos en mis áreas de investigación.
+**14th Early Stage Researchers Workshop in Nanoscience**
+*Póster* · IMDEA Nanociencia, Madrid, España
+"Phonon Dispersion in Twisted h-BN: A Continuum Model Approach."
+G. N. Molina, E. Cappelluti, H. Rostami, F. Guinea y J. A. Silva-Guillén.
+[[Certificado]](https://g98molina.github.io/files/PDFMailer.pdf) · [[Book of abstracts]](https://g98molina.github.io/files/abstracts_book_14ESRW.pdf)
+
+---
+
+**22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods**
+*Póster* · ICTP, Trieste, Italia
+"Study of the exfoliation of two-dimensional Cu-doped TiSe₂."
+G. Molina, Á. Rosa, M. Otero y G. Morales.
+[[Certificado]](https://g98molina.github.io/files/cert-ictp.pdf) · [[Book of abstracts]](https://g98molina.github.io/files/Booklet_Post._Sessions_SMR4050.pdf)
+
+---
+
+**Sesión Científica Anual del Programa de Doctorado en Física de la Materia Condensada, Nanociencia y Biofísica**
+*Póster* · Universidad Autónoma de Madrid, España
+"Phonon Dispersion in Hexagonal Boron Nitride: A Continuum Model Approach."
+G. N. Molina, E. Cappelluti, H. Rostami, F. Guinea y J. A. Silva-Guillén.
+[[Certificado]](https://g98molina.github.io/files/FMCNB3.pdf) · [[Book of abstracts]](https://g98molina.github.io/files/libro_abstracts-71.pdf)
+
+---
+
+**110° Reunión de la Asociación Física Argentina – 3ra. Reunión Conjunta AFA-SUF**
+*Presentación oral* · Argentina
+"Estudio teórico de la dispersión de fonones del hBN mediante un modelo continuo."
+G. N. Molina, E. Cappelluti, H. Rostami, F. Guinea y J. A. Silva-Guillén.
+[[Certificado]](https://g98molina.github.io/files/RAFASUF2025.pdf) · [[Book of abstracts]](https://g98molina.github.io/files/main-RAFASUF.pdf)
+
+---
+
+**III Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)**
+*Póster* · Argentina
+"Simulación DFT de grafeno y óxidos de carbono fluorados para la protección de litio metálico en baterías."
+G. N. Molina, S. Raviolo, M. Otero y L. G. Luque.
+[[Certificado]](https://g98molina.github.io/files/WER-2025.pdf)
+
+---
+
+**15th Early Stage Researchers Workshop in Nanoscience**
+*Póster* · IMDEA Nanociencia, Madrid, España
+"First-principles calculations of magnetic defects in rare-earth-doped Bi₂Te₃."
+G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barla, M. G. Cuxart, P. Gargiani, J. A. Silva-Guillén, A. I. Figueroa, K. García-Díez, S. O. Valenzuela, A. Mugarza, A. L. Vázquez de Parga, R. Miranda, F. Guinea, M. Garnica y M. A. Valbuena.
+[[Certificado]](https://g98molina.github.io/files/15ESRW.pdf) · [[Book of abstracts]](https://g98molina.github.io/files/15ESRW-book-abstracts.pdf)
