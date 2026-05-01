@@ -222,3 +222,16 @@ body::before {
   background-position: 0 0, 0 0, 0 0;
   filter: opacity(0.06);
 }
+
+/* Fondo grafeno SVG */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  z-index: -1;
+  background-image: url('/images/grafeno.svg');
+  background-repeat: repeat;
+  background-size: 120px 104px;
+  opacity: 0.08;
+}
