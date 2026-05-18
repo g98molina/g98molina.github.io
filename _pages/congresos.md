@@ -97,3 +97,9 @@ G. N. Molina, S. Raviolo, M. Otero y L. G. Luque.
 "First-principles calculations of magnetic defects in rare-earth-doped Bi₂Te₃."
 G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barla, M. G. Cuxart, P. Gargiani, J. A. Silva-Guillén, A. I. Figueroa, K. García-Díez, S. O. Valenzuela, A. Mugarza, A. L. Vázquez de Parga, R. Miranda, F. Guinea, M. Garnica y M. A. Valbuena.
 [[Certificado]](https://g98molina.github.io/files/15ESRW.pdf) · [[Book of abstracts]](https://g98molina.github.io/files/15ESRW-book-abstracts.pdf)
+
+**ARTIFICIAL INTELLIGENCE OF THE ADVANCED MATERIALS (AI4AM2026)**
+*Póster* · IMDEA Nanociencia, Madrid, España
+"First-principles calculations of magnetic defects in rare-earth-doped Bi₂Te₃."
+G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barla, M. G. Cuxart, P. Gargiani, J. A. Silva-Guillén, A. I. Figueroa, K. García-Díez, S. O. Valenzuela, A. Mugarza, A. L. Vázquez de Parga, R. Miranda, F. Guinea, M. Garnica y M. A. Valbuena.
+[[Certificados]](https://g98molina.github.io/files/AI4AM.pdf).
