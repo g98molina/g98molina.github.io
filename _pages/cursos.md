@@ -19,3 +19,13 @@ author_profile: true
 ### MaX school: materials and molecular modelling with QUANTUM ESPRESSO
 *MaX CoE en colaboración con NCC Czechia, NCC Austria, NCC Slovakia, NCC Slovenia, NCC Poland y NCC Hungary*
 [[Certificado de Asistencia]](https://g98molina.github.io/files/MaX_school-Molina.pdf)
+
+---
+
+### MaX school: materials and molecular modelling with QUANTUM ESPRESSO
+*MaX CoE en colaboración con NCC Czechia, NCC Austria, NCC Slovakia, NCC Slovenia, NCC Poland y NCC Hungary*
+[[Certificado de Asistencia]](https://g98molina.github.io/files/MaX_school-Molina.pdf)
+
+### Computational Spectroscopy: Hands-on Many-Body Calculations with the Yambo Code
+*MaX CoE en colaboración con NCC Czechia*
+[[Certificado de Asistencia]](https://g98molina.github.io/files//Certificate_Yambo.pdf)
