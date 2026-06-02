@@ -108,4 +108,4 @@ G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barl
 *Póster* · Universidad Autónoma de Madrid, España
 "First-principles calculations of magnetic defects in rare-earth-doped Bi₂Te₃."
 G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barla, M. G. Cuxart, P. Gargiani, J. A. Silva-Guillén, A. I. Figueroa, K. García-Díez, S. O. Valenzuela, A. Mugarza, A. L. Vázquez de Parga, R. Miranda, F. Guinea, M. Garnica y M. A. Valbuena.
-[[Certificados]](https://g98molina.github.io/files/reunion-doc2026.pdf).
+[[Certificado]](https://g98molina.github.io/files/reunion-doc2026.pdf).
