@@ -68,7 +68,7 @@ G. Molina, Á. Rosa, M. Otero y G. Morales.
 
 ---
 
-**Sesión Científica Anual del Programa de Doctorado en Física de la Materia Condensada, Nanociencia y Biofísica**
+** 2025 Sesión Científica Anual del Programa de Doctorado en Física de la Materia Condensada, Nanociencia y Biofísica**
 *Póster* · Universidad Autónoma de Madrid, España
 "Phonon Dispersion in Hexagonal Boron Nitride: A Continuum Model Approach."
 G. N. Molina, E. Cappelluti, H. Rostami, F. Guinea y J. A. Silva-Guillén.
@@ -103,3 +103,9 @@ G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barl
 "First-principles calculations of magnetic defects in rare-earth-doped Bi₂Te₃."
 G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barla, M. G. Cuxart, P. Gargiani, J. A. Silva-Guillén, A. I. Figueroa, K. García-Díez, S. O. Valenzuela, A. Mugarza, A. L. Vázquez de Parga, R. Miranda, F. Guinea, M. Garnica y M. A. Valbuena.
 [[Certificados]](https://g98molina.github.io/files/AI4AM.pdf).
+
+**2026 Sesión Científica Anual del Programa de Doctorado en Física de la Materia Condensada, Nanociencia y Biofísica**
+*Póster* · Universidad Autónoma de Madrid, España
+"First-principles calculations of magnetic defects in rare-earth-doped Bi₂Te₃."
+G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barla, M. G. Cuxart, P. Gargiani, J. A. Silva-Guillén, A. I. Figueroa, K. García-Díez, S. O. Valenzuela, A. Mugarza, A. L. Vázquez de Parga, R. Miranda, F. Guinea, M. Garnica y M. A. Valbuena.
+[[Certificados]](https://g98molina.github.io/files/reunion-doc2026.pdf).
