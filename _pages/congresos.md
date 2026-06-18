@@ -68,7 +68,7 @@ G. Molina, Á. Rosa, M. Otero y G. Morales.
 
 ---
 
-** 2025 Sesión Científica Anual del Programa de Doctorado en Física de la Materia Condensada, Nanociencia y Biofísica**
+**2025 Sesión Científica Anual del Programa de Doctorado en Física de la Materia Condensada, Nanociencia y Biofísica**
 *Póster* · Universidad Autónoma de Madrid, España
 "Phonon Dispersion in Hexagonal Boron Nitride: A Continuum Model Approach."
 G. N. Molina, E. Cappelluti, H. Rostami, F. Guinea y J. A. Silva-Guillén.
