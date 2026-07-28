@@ -13,7 +13,7 @@ G. Molina, Á. Rosa, M. Otero y G. Morales.
 ---
 
 **NANO 2022: XXI Encuentro de Superficies y Materiales Nanoestructurados**
-*Póster* · Argentina
+*Póster* · Online, Argentina
 "Estudio de la exfoliación de TiSe₂ dopado con Cu mediante cálculos de DFT."
 G. Molina, Á. Rosa, M. Otero y G. Morales.
 [[Certificado]](https://g98molina.github.io/files/certificados_NANO.pdf) · [[Book of abstracts]](https://g98molina.github.io/files/Nanociencia-y-Nanotecnología-ebook-UniRío-editora.pdf)
@@ -21,7 +21,7 @@ G. Molina, Á. Rosa, M. Otero y G. Morales.
 ---
 
 **I SiModAr: I Simposio de Modelado Multiescala para Biociencias y Nanomateriales en Argentina**
-*Póster* · Argentina
+*Póster* · Online, Argentina
 "Estudio mediante cálculos de primeros principios de materiales carbonosos modificados con flúor para su utilización como protección de litio metálico."
 S. Raviolo, G. Molina, M. Otero y G. L. Luque.
 [[Certificado]](https://g98molina.github.io/files/certificados_SIMODAR.pdf) · [[Abstract]](https://g98molina.github.io/files/Resumen-SIMODAR2022.pdf)
@@ -29,7 +29,7 @@ S. Raviolo, G. Molina, M. Otero y G. L. Luque.
 ---
 
 **108° RAFA 2023: Reunión Anual de Física Argentina**
-*Póster* · Argentina
+*Póster* · Bahía Blanca, Argentina
 "Estudio de la exfoliación de TiSe₂ bidimensional dopado con Cu."
 G. Molina, Á. Rosa, M. Otero, M. Santo y G. Morales.
 [[Book of abstracts]](https://g98molina.github.io/files/Libro_108RAFA.pdf)
@@ -37,7 +37,7 @@ G. Molina, Á. Rosa, M. Otero, M. Santo y G. Morales.
 ---
 
 **II Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)**
-*Póster* · Argentina
+*Póster* · Córdoba, Argentina
 "Óxidos de carbono fluorados para protección de Li metálico mediante DFT."
 G. Molina, S. Raviolo, M. Otero y G. L. Luque.
 [[Certificado]](https://g98molina.github.io/files/certificado_WER.pdf)
@@ -45,7 +45,7 @@ G. Molina, S. Raviolo, M. Otero y G. L. Luque.
 ---
 
 **XXXIX Reunión Bienal de la Real Sociedad Española de Física**
-*Póster* · España
+*Póster* · San Sebastián, España
 "Study of the exfoliation of two-dimensional Cu-doped TiSe₂."
 G. Molina, Á. Rosa, M. Otero y G. Morales.
 [[Certificado]](https://g98molina.github.io/files/certificados_BIENAL.pdf) · [[Book of abstracts]](https://g98molina.github.io/files/BIENAL-abs.pdf)
@@ -77,7 +77,7 @@ G. N. Molina, E. Cappelluti, H. Rostami, F. Guinea y J. A. Silva-Guillén.
 ---
 
 **110° Reunión de la Asociación Física Argentina – 3ra. Reunión Conjunta AFA-SUF**
-*Presentación oral* · Argentina
+*Presentación oral* · La Plata, Argentina
 "Estudio teórico de la dispersión de fonones del hBN mediante un modelo continuo."
 G. N. Molina, E. Cappelluti, H. Rostami, F. Guinea y J. A. Silva-Guillén.
 [[Certificado]](https://g98molina.github.io/files/RAFASUF2025.pdf) · [[Book of abstracts]](https://g98molina.github.io/files/main-RAFASUF.pdf)
@@ -85,7 +85,7 @@ G. N. Molina, E. Cappelluti, H. Rostami, F. Guinea y J. A. Silva-Guillén.
 ---
 
 **III Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC-UNCA-UNDEF)**
-*Póster* · Argentina
+*Póster* · San Fernando del Valle de Catamarca, Argentina
 "Simulación DFT de grafeno y óxidos de carbono fluorados para la protección de litio metálico en baterías."
 G. N. Molina, S. Raviolo, M. Otero y L. G. Luque.
 [[Certificado]](https://g98molina.github.io/files/WER-2025.pdf)
@@ -106,6 +106,12 @@ G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barl
 
 **2026 Sesión Científica Anual del Programa de Doctorado en Física de la Materia Condensada, Nanociencia y Biofísica**
 *Póster* · Universidad Autónoma de Madrid, España
+"First-principles calculations of magnetic defects in rare-earth-doped Bi₂Te₃."
+G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barla, M. G. Cuxart, P. Gargiani, J. A. Silva-Guillén, A. I. Figueroa, K. García-Díez, S. O. Valenzuela, A. Mugarza, A. L. Vázquez de Parga, R. Miranda, F. Guinea, M. Garnica y M. A. Valbuena.
+[[Certificado]](https://g98molina.github.io/files/reunion-doc2026.pdf).
+
+**XL Reunión Bienal de la Real Sociedad Española de Física**
+*Póster* · Sevilla, España
 "First-principles calculations of magnetic defects in rare-earth-doped Bi₂Te₃."
 G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barla, M. G. Cuxart, P. Gargiani, J. A. Silva-Guillén, A. I. Figueroa, K. García-Díez, S. O. Valenzuela, A. Mugarza, A. L. Vázquez de Parga, R. Miranda, F. Guinea, M. Garnica y M. A. Valbuena.
 [[Certificado]](https://g98molina.github.io/files/reunion-doc2026.pdf).
