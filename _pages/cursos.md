@@ -4,15 +4,9 @@ permalink: /cursos/
 author_profile: true
 ---
 
-### [Introducción a los Métodos de Modelado Computacional en Ciencias de los Materiales](https://g98molina.github.io/files/Programa_Curso-Introd.Modelado.Computacional.pdf)
-*Universidad Nacional de La Plata* · 50 horas <br>
-[[Certificado de Aprobación]](https://g98molina.github.io/files/cert-DFT.pdf)
-
----
-
-### PWTK–2024: An Online Tutorial
-*MaX CoE en colaboración con NCC Eslovenia* <br>
-[[Certificado de Asistencia]](https://g98molina.github.io/files/GonzaloMolina_certificate-PWTK.pdf)
+### Computational Spectroscopy: Hands-on Many-Body Calculations with the Yambo Code
+*MaX CoE en colaboración con NCC Czechia* <br>
+[[Certificado de Asistencia]](https://g98molina.github.io/files//Certificate_Yambo.pdf)
 
 ---
 
@@ -22,6 +16,13 @@ author_profile: true
 
 ---
 
-### Computational Spectroscopy: Hands-on Many-Body Calculations with the Yambo Code
-*MaX CoE en colaboración con NCC Czechia* <br>
-[[Certificado de Asistencia]](https://g98molina.github.io/files//Certificate_Yambo.pdf)
+### PWTK–2024: An Online Tutorial
+*MaX CoE en colaboración con NCC Eslovenia* <br>
+[[Certificado de Asistencia]](https://g98molina.github.io/files/GonzaloMolina_certificate-PWTK.pdf)
+
+---
+
+### [Introducción a los Métodos de Modelado Computacional en Ciencias de los Materiales](https://g98molina.github.io/files/Programa_Curso-Introd.Modelado.Computacional.pdf)
+*Universidad Nacional de La Plata* · 50 horas <br>
+[[Certificado de Aprobación]](https://g98molina.github.io/files/cert-DFT.pdf)
+
