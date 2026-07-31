@@ -4,18 +4,9 @@ permalink: /congresos/
 author_profile: true
 ---
 
-**III Jornada de exposición de prácticas experimentales en física**
-*Presentación oral* · Universidad Nacional de Río Cuarto, Argentina
-"Estudio de la exfoliación de TiSe₂ dopado con Cu mediante cálculos de DFT."
-G. Molina, Á. Rosa, M. Otero y G. Morales.
-[[Certificado]](https://g98molina.github.io/files/jepef.pdf)
-
----
-
 **III Jornada de exposición de prácticas experimentales en física**<br>
-*Presentación oral*<br>
-Universidad Nacional de Río Cuarto, Argentina<br>
-"Estudio de la exfoliación de TiSe₂ dopado con Cu mediante cálculos de DFT."<br>
+*Presentación oral · Universidad Nacional de Río Cuarto, Argentina*<br>
+*"Estudio de la exfoliación de TiSe₂ dopado con Cu mediante cálculos de DFT."*<br>
 G. Molina, Á. Rosa, M. Otero y G. Morales.<br>
 [[Certificado]](https://g98molina.github.io/files/jepef.pdf)
 
