@@ -12,6 +12,15 @@ G. Molina, Á. Rosa, M. Otero y G. Morales.
 
 ---
 
+**III Jornada de exposición de prácticas experimentales en física**<br>
+*Presentación oral*<br>
+Universidad Nacional de Río Cuarto, Argentina<br>
+"Estudio de la exfoliación de TiSe₂ dopado con Cu mediante cálculos de DFT."<br>
+G. Molina, Á. Rosa, M. Otero y G. Morales.<br>
+[[Certificado]](https://g98molina.github.io/files/jepef.pdf)
+
+---
+
 **NANO 2022: XXI Encuentro de Superficies y Materiales Nanoestructurados**
 *Póster* · Online, Argentina
 "Estudio de la exfoliación de TiSe₂ dopado con Cu mediante cálculos de DFT."
