@@ -31,11 +31,11 @@ Charla dirigida a estudiantes y docentes del Departamento de Física de la UNRC.
 [[Certificado]](https://g98molina.github.io/files/charla2.pdf)
 
 **Semana de la Ciencia y la Innovación 2025**  <br> *(IMDEA Nanociencia)*  <br>
-Taller "Las formas del carbono: taller 3D con moléculas y efecto moiré", dirigido a niños. 1h 30 min · 85 visitantes.
+Taller "Las formas del carbono: taller 3D con moléculas y efecto moiré", dirigido a niños.
 [[Certificado]](https://g98molina.github.io/files/semana_ciencia.pdf)
 
 **XV Feria "Madrid es Ciencia" 2026**  <br> La Nave, Madrid  <br>
-Expositor en el stand conjunto de los institutos IMDEA. Realizando actividades de divulgación sobre nanociencia dirigidas al público general.
+Expositor en el stand conjunto de los institutos IMDEA. Donde se realizaron actividades de divulgación sobre nanociencia dirigidas al público general.
 [[Certificado]](https://g98molina.github.io/files/feria2026.pdf)
 
 
