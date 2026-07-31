@@ -37,16 +37,6 @@ G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barl
 [[Certificado]](https://g98molina.github.io/files/15ESRW.pdf) · [[Book of abstracts]](https://g98molina.github.io/files/15ESRW-book-abstracts.pdf)
 
 
-### 110° Reunión de la Asociación Física Argentina – 3ra. Reunión Conjunta AFA–SUF
-
-*Presentación oral · La Plata, Argentina*
-
-*"Estudio teórico de la dispersión de fonones del hBN mediante un modelo continuo."*
-
-G. N. Molina, E. Cappelluti, H. Rostami, F. Guinea y J. A. Silva-Guillén.
-
-[Certificado] · [Book of abstracts]
-
 **110° Reunión de la Asociación Física Argentina – 3ra. Reunión Conjunta AFA-SUF**<br>
 *Presentación oral · La Plata, Argentina*<br>
 *"Estudio teórico de la dispersión de fonones del hBN mediante un modelo continuo."*<br>
