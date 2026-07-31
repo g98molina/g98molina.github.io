@@ -26,11 +26,9 @@ G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barl
 G. N. Molina, B. M. Cano, F. Calleja, J. Dai, M. Tallarida, V. Marinova, A. Barla, M. G. Cuxart, P. Gargiani, J. A. Silva-Guillén, A. I. Figueroa, K. García-Díez, S. O. Valenzuela, A. Mugarza, A. L. Vázquez de Parga, R. Miranda, F. Guinea, M. Garnica y M. A. Valbuena.<br>
 [[Certificado]](https://g98molina.github.io/files/AI4AM.pdf)
 
----
 
 ## 2025
 
----
 
 **15th Early Stage Researchers Workshop in Nanoscience**<br>
 *Póster · IMDEA Nanociencia, Madrid, España*<br>
@@ -59,11 +57,9 @@ G. N. Molina, E. Cappelluti, H. Rostami, F. Guinea y J. A. Silva-Guillén.<br>
 G. N. Molina, S. Raviolo, M. Otero y L. G. Luque.<br>
 [[Certificado]](https://g98molina.github.io/files/WER-2025.pdf)
 
----
 
 ## 2024
 
----
 
 **22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods**<br>
 *Póster · ICTP, Trieste, Italia*<br>
@@ -85,11 +81,9 @@ G. N. Molina, E. Cappelluti, H. Rostami, F. Guinea y J. A. Silva-Guillén.<br>
 G. Molina, Á. Rosa, M. Otero y G. Morales.<br>
 [[Certificado]](https://g98molina.github.io/files/certificados_BIENAL.pdf) · [[Book of abstracts]](https://g98molina.github.io/files/BIENAL-abs.pdf)
 
----
 
 ## 2023
 
----
 
 **108° Reunión Anual de Física Argentina (RAFA 2023)**<br>
 *Póster · Bahía Blanca, Argentina*<br>
@@ -104,11 +98,9 @@ G. Molina, Á. Rosa, M. Otero, M. Santo y G. Morales.<br>
 G. Molina, S. Raviolo, M. Otero y G. L. Luque.<br>
 [[Certificado]](https://g98molina.github.io/files/certificado_WER.pdf)
 
----
 
 ## 2022
 
----
 
 **NANO 2022: XXI Encuentro de Superficies y Materiales Nanoestructurados**<br>
 *Póster · Online, Argentina*<br>
