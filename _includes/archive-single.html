@@ -28,16 +28,6 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">{{ title }}</a>
-      {% elsif post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
-
-    <h2 class="archive__item-title" itemprop="headline">
       {% if post.status == 'review' %}
         {{ title }}
       {% elsif post.paperurl %}
