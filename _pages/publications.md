@@ -23,3 +23,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 {% endif %}
+
+## Manuscripts under review
+
+- **First-Principles Insights into N₂H₄-Assisted Exfoliation of CuₓTiSe₂**
+
+  *Under review*
