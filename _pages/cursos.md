@@ -25,4 +25,3 @@ author_profile: true
 ### Introduction to Computational Modeling Methods in Materials Science
 *Universidad Nacional de La Plata, Argentina* <br>
 [[Certificate of Completion]](https://g98molina.github.io/files/cert-DFT.pdf)
-```
