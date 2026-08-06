@@ -1,33 +1,34 @@
 ---
 layout: archive
-title: "Publicaciones"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 {% assign principal = site.publications | where: "role", "principal" | sort: "date" | reverse %}
-{% assign coautor = site.publications | where: "role", "coautor" | sort: "date" | reverse %}
+{% assign coauthor = site.publications | where: "role", "coauthor" | sort: "date" | reverse %}
 
 {% if principal.size > 0 %}
-## Autor principal
+## First Author
 
 {% for post in principal %}
   {% include archive-single.html %}
 {% endfor %}
 {% endif %}
 
-{% if coautor.size > 0 %}
-## Coautor
+{% if coauthor.size > 0 %}
+## Co-author
 
-{% for post in coautor %}
+{% for post in coauthor %}
   {% include archive-single.html %}
 {% endfor %}
 {% endif %}
 
 {% if review.size > 0 %}
-## Manuscripts under review
+## Manuscripts under Review
 
 {% for post in review %}
   {% include archive-single.html %}
 {% endfor %}
 {% endif %}
+```
