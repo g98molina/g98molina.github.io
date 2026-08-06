@@ -1,62 +1,87 @@
 ---
-title: "Actividades"
+title: "Activities"
 permalink: /otros/
 author_profile: true
 ---
 
-## Becas
+## Scholarships
+
 **Beca SeCyT – Ayudantía de Investigación** *(Consejo Interuniversitario Nacional)*  <br>
-"Estudio de materiales bidimensionales utilizando la teoría del Funcional de la Densidad Electrónica."
+*"Estudio de materiales bidimensionales utilizando la teoría del Funcional de la Densidad Electrónica."*
 
 **Beca EVC-CIN – Estímulo a las Vocaciones Científicas**  <br>
-"Estudio de materiales bidimensionales utilizando la teoría del Funcional de la Densidad Electrónica."
+*"Estudio de materiales bidimensionales utilizando la teoría del Funcional de la Densidad Electrónica."*
 
-**Beca FPI – Formación de Personal Investigador**  <br>*(España)*  <br>
-Ayuda predoctoral vinculada a proyecto del Ministerio de Ciencia e Innovación, para el desarrollo de la tesis doctoral.
+**FPI Fellowship – Formación de Personal Investigador** *(Spain)*  <br>
+Predoctoral fellowship funded by the Spanish Ministry of Science and Innovation for the development of my Ph.D. research.
 
+---
 
-## Estancia de investigación
-**Departamento de Física, Universidad Nacional de Río Cuarto (UNRC)**  <br> *septiembre–octubre 2025*  <br>
-Colaboración con el Grupo de Física de Materiales en estudios DFT de adsorción atómica en materiales bidimensionales.
-[[Carta de invitación]](https://g98molina.github.io/files/cinv.pdf) · [[Carta de agradecimiento]](https://g98molina.github.io/files/agradec.pdf)
+## Research Stay
 
-
-## Divulgación científica
-**"¿Cómo funciona un mar de electrones?"**  <br> *(UNRC, 2022)*  <br>
-Ciclo de Charlas "Física: Desde Átomos Hasta Volcanes". Presentación oral dirigida a la Facultad de Ciencias Exactas, Físico-Químicas y Naturales de la UNRC.
-[[Certificado]](https://g98molina.github.io/files/charla1.pdf)
-
-**"Investigación Computacional en Física: DFT. Del grado en la UNRC al doctorado en Madrid."**  <br> *(UNRC, 2025)*  <br>
-Charla dirigida a estudiantes y docentes del Departamento de Física de la UNRC.
-[[Certificado]](https://g98molina.github.io/files/charla2.pdf)
-
-**Semana de la Ciencia y la Innovación 2025**  <br> *(IMDEA Nanociencia)*  <br>
-Taller "Las formas del carbono: taller 3D con moléculas y efecto moiré", dirigido a niños.
-[[Certificado]](https://g98molina.github.io/files/semana_ciencia.pdf)
-
-**XV Feria "Madrid es Ciencia" 2026**  <br> La Nave, Madrid  <br>
-Expositor en el stand conjunto de los institutos IMDEA. Donde se realizaron actividades de divulgación sobre nanociencia dirigidas al público general.
-[[Certificado]](https://g98molina.github.io/files/feria2026.pdf)
+**Departamento de Física, Universidad Nacional de Río Cuarto (UNRC)**  <br>
+*September–October 2025*  <br>
+Collaboration with the Materials Physics Group on DFT studies of atomic adsorption in two-dimensional materials.  <br>
+[[Invitation Letter]](https://g98molina.github.io/files/cinv.pdf) · [[Letter of Appreciation]](https://g98molina.github.io/files/agradec.pdf)
 
 
-## Participación institucional
-Jurado en concursos docentes del Departamento de Física de la UNRC:  <br>
-- Concurso para *Profesor Adjunto Efectivo*, Especialidad I (código 2252) — Licenciatura en Física. [[Certificado]](https://g98molina.github.io/files/c2252.pdf)
-- Concurso para *Profesor Adjunto Efectivo*, Termodinámica y Mecánica Estadística I (código 2251) — Licenciatura en Física. [[Certificado]](https://g98molina.github.io/files/c2251.pdf)
+---
 
+## Science Outreach
 
-## Seminarios científicos
-Asistencia regular a seminarios de IMDEA Nanociencia con investigadores nacionales e internacionales, en áreas de física del estado sólido, materiales bidimensionales y nanociencia.
-[[Listado de seminarios]](https://g98molina.github.io/files/seminarios-imdea_merged.pdf)
+**"¿Cómo funciona un mar de electrones?"**  <br>
+*(UNRC, 2022)*  <br>
+Oral presentation delivered as part of the lecture series *"Física: Desde Átomos Hasta Volcanes"*, aimed at the Faculty of Exact, Physical-Chemical and Natural Sciences of UNRC.  <br>
+[[Certificate]](https://g98molina.github.io/files/charla1.pdf)
 
+**"Investigación Computacional en Física: DFT. Del grado en la UNRC al doctorado en Madrid."**  <br>
+*(UNRC, 2025)*  <br>
+Talk delivered to students and faculty members of the Department of Physics at UNRC.  <br>
+[[Certificate]](https://g98molina.github.io/files/charla2.pdf)
 
-## Compromiso con la diversidad e inclusión
-Asistencia a seminario sobre diversidad LGTBIQ+ e inclusión en entornos de investigación.
-[[Certificado]](https://g98molina.github.io/files/sem-div.pdf)
+**Semana de la Ciencia y la Innovación 2025**  <br>
+*(IMDEA Nanoscience)*  <br>
+Workshop *"Las formas del carbono: taller 3D con moléculas y efecto moiré"* for children.  <br>
+[[Certificate]](https://g98molina.github.io/files/semana_ciencia.pdf)
 
+**XV Feria "Madrid es Ciencia" 2026**  <br>
+La Nave, Madrid, Spain  <br>
+Representative at the joint IMDEA Institutes stand, participating in nanoscience outreach activities for the general public.  <br>
+[[Certificate]](https://g98molina.github.io/files/feria2026.pdf)
 
-## Formación complementaria 
+---
+
+## Institutional Service
+
+Member of selection committees for academic positions in the Department of Physics, UNRC:
+
+- Competition for *Profesor Adjunto Efectivo*, Especialidad I (Code 2252) — Licenciatura en Física. [[Certificate]](https://g98molina.github.io/files/c2252.pdf)
+
+- Competition for *Profesor Adjunto Efectivo*, Termodinámica y Mecánica Estadística I (Code 2251) — Licenciatura en Física. [[Certificate]](https://g98molina.github.io/files/c2251.pdf)
+
+---
+
+## Scientific Seminars
+
+Regular attendance at scientific seminars organized by IMDEA Nanoscience, featuring national and international researchers in condensed matter physics, two-dimensional materials, and nanoscience.  <br>
+[[Seminar List]](https://g98molina.github.io/files/seminarios-imdea_merged.pdf)
+
+---
+
+## Diversity and Inclusion
+
+Attendance at a seminar on LGBTQIA+ diversity and inclusion in research environments.  <br>
+[[Certificate]](https://g98molina.github.io/files/sem-div.pdf)
+
+---
+
+## Additional Training
+
 *Vitaly Health Services, S.L.*  <br>
-- "Pantallas de visualización de datos: riesgos y medidas preventivas." [[Certificado]](https://g98molina.github.io/files/vitaly1.pdf)
-- "Principios básicos: riesgos y medidas preventivas." [[Certificado]](https://g98molina.github.io/files/vitaly2.pdf)
-- "Oficinas y despachos: riesgos y medidas preventivas." [[Certificado]](https://g98molina.github.io/files/vitaly3.pdf)
+
+- "Pantallas de visualización de datos: riesgos y medidas preventivas." [[Certificate]](https://g98molina.github.io/files/vitaly1.pdf)
+
+- "Principios básicos: riesgos y medidas preventivas." [[Certificate]](https://g98molina.github.io/files/vitaly2.pdf)
+
+- "Oficinas y despachos: riesgos y medidas preventivas." [[Certificate]](https://g98molina.github.io/files/vitaly3.pdf)
+```
