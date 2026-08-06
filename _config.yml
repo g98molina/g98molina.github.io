@@ -1,9 +1,9 @@
 # Site Settings
-locale                   : "es-ES"
+locale                   : "en-US"
 title                    : "Gonzalo N. Molina"
 title_separator          : "-"
 name                     : &name "Gonzalo N. Molina"
-description              : &description "Investigador predoctoral en física teórica de materiales bidimensionales."
+description              : &description "Ph.D. Researcher in the theoretical physics of two-dimensional materials."
 url                      : https://g98molina.github.io
 baseurl                  : ""
 repository               : "g98molina/g98molina.github.io"
@@ -24,13 +24,13 @@ analytics:
 author:
   name             : "Gonzalo N. Molina"
   avatar           : "yo-act.png"
-  bio              : "Investigador predoctoral en IMDEA Nanociencia. Física de la materia condensada."
-  location         : "Madrid, España"
+  bio              : "Ph.D. Researcher at IMDEA Nanoscience. Condensed Matter Physics."
+  location         : "Madrid, Spain"
   email            : "gonzalo.molina@imdea.org"
   github           : "g98molina"
-  researchgate     : # "https://www.researchgate.net/profile/yourprofile"
-  linkedin         : # "your-linkedin-username"
-  orcid           : "https://orcid.org/0009-0005-5840-9882"
+  # researchgate     :
+  # linkedin         :
+  orcid            : "https://orcid.org/0009-0005-5840-9882"
   # googlescholar  : "http://yourfullgooglescholarurl.com"
 
 
