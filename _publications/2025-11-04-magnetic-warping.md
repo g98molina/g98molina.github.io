@@ -4,6 +4,6 @@ collection: publications
 date: 2025-11-04
 venue: "Advanced Materials"
 paperurl: "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202510877?utm_source=researchgate"
-role: "coautor"
+role: "coauthor"
 status: published
 ---
