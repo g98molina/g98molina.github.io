@@ -1,23 +1,20 @@
 ---
 permalink: /
-title: "Sobre mí"
+title: "About"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Soy investigador predoctoral en el [Instituto IMDEA Nanociencia](https://www.nanociencia.imdea.org/es/), donde realizo el doctorado en Física de la Materia Condensada, Nanociencia y Biofísica en la Universidad Autónoma de Madrid (UAM), bajo la supervisión del Dr. José Ángel Silva-Guillén y el Dr. Francisco Guinea.
+I am a Ph.D. researcher at the [IMDEA Nanoscience Institute](https://www.nanociencia.imdea.org/es/), where I am pursuing a Ph.D. in Condensed Matter Physics, Nanoscience and Biophysics at the Universidad Autónoma de Madrid (UAM), under the supervision of Dr. José Ángel Silva-Guillén and Dr. Francisco Guinea.
 
-## Investigación
+My research focuses on the theoretical physics of two-dimensional materials, using first-principles calculations and methods based on Density Functional Theory (DFT/DFPT).
 
-Mi trabajo se centra en la física teórica de materiales bidimensionales, utilizando cálculos de primeros principios y métodos basados en la Teoría del Funcional de la Densidad (DFT/DFPT).
+I received my B.Sc. in Physics from the Universidad Nacional de Río Cuarto (UNRC), Argentina, in November 2023, under the supervision of Dr. Manuel Otero and Dr. Gustavo Morales.
 
-## Formación
-
-Licenciado en Física (noviembre 2023) por la Universidad Nacional de Río Cuarto (UNRC), Argentina, bajo la dirección del Dr. Manuel Otero y el Dr. Gustavo Morales.
-
-Mi tesis, [*Estudio de sólidos de van der Waals mediante teoría del funcional de densidad electrónica*](https://g98molina.github.io/files/Tesis_Molina.pdf), analizó mediante simulaciones computacionales cómo la hidracina facilita la exfoliación del diseleniuro de titanio con y sin presencia de cobre.
+My undergraduate thesis, [*Estudio de sólidos de van der Waals mediante teoría del funcional de densidad electrónica*](https://g98molina.github.io/files/Tesis_Molina.pdf), investigated through first-principles simulations how hydrazine promotes the exfoliation of titanium diselenide with and without copper intercalation.
+```
 
 
