@@ -15,6 +15,5 @@ My research focuses on the theoretical physics of two-dimensional materials, usi
 I received my B.Sc. in Physics from the Universidad Nacional de Río Cuarto (UNRC), Argentina, in November 2023, under the supervision of Dr. Manuel Otero and Dr. Gustavo Morales.
 
 My undergraduate thesis, [*Estudio de sólidos de van der Waals mediante teoría del funcional de densidad electrónica*](https://g98molina.github.io/files/Tesis_Molina.pdf), investigated through first-principles simulations how hydrazine promotes the exfoliation of titanium diselenide with and without copper intercalation.
-```
 
 
