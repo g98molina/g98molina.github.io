@@ -1,11 +1,11 @@
 main:
-  - title: "Publicaciones"
+  - title: "Publications"
     url: /publications/
-  - title: "Congresos"
+  - title: "Conferences"
     url: /congresos/
-  - title: "Cursos"
+  - title: "Courses"
     url: /cursos/
-  - title: "Actividades"
+  - title: "Activities"
     url: /otros/
   - title: "CV"
     url: /files/cv1.pdf
