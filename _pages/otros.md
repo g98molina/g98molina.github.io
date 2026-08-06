@@ -84,4 +84,3 @@ Attendance at a seminar on LGBTQIA+ diversity and inclusion in research environm
 - "Principios básicos: riesgos y medidas preventivas." [[Certificate]](https://g98molina.github.io/files/vitaly2.pdf)
 
 - "Oficinas y despachos: riesgos y medidas preventivas." [[Certificate]](https://g98molina.github.io/files/vitaly3.pdf)
-```
