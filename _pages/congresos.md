@@ -103,4 +103,3 @@ S. Raviolo, G. Molina et al.<br>
 *"Estudio de la exfoliación de TiSe₂ dopado con Cu mediante cálculos de DFT."*<br>
 G. N. Molina et al.<br>
 [[Certificate]](https://g98molina.github.io/files/jepef.pdf)
-```
