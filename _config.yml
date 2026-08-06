@@ -3,7 +3,7 @@ locale                   : "en-US"
 title                    : "Gonzalo N. Molina"
 title_separator          : "-"
 name                     : &name "Gonzalo N. Molina"
-description              : &description "Ph.D. Researcher in the theoretical physics of two-dimensional materials."
+description              : &description "Ph.D. Student in the theoretical physics of two-dimensional materials."
 url                      : https://g98molina.github.io
 baseurl                  : ""
 repository               : "g98molina/g98molina.github.io"
