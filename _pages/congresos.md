@@ -32,6 +32,12 @@ G. N. Molina et al.<br>
 G. N. Molina et al.<br>
 [[Certificate]](https://g98molina.github.io/files/15ESRW.pdf) · [[Book of Abstracts]](https://g98molina.github.io/files/15ESRW-book-abstracts.pdf)
 
+**III Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC–UNCA–UNDEF)**<br>
+*Poster · San Fernando del Valle de Catamarca, Argentina*<br>
+*"Simulación DFT de grafeno y óxidos de carbono fluorados para la protección de litio metálico en baterías."*<br>
+G. N. Molina et al.<br>
+[[Certificate]](https://g98molina.github.io/files/WER-2025.pdf)
+
 **110° Reunión de la Asociación Física Argentina – 3ra. Reunión Conjunta AFA-SUF**<br>
 *Oral presentation · La Plata, Argentina*<br>
 *"Estudio teórico de la dispersión de fonones del hBN mediante un modelo continuo."*<br>
@@ -44,19 +50,13 @@ G. N. Molina et al.<br>
 G. N. Molina et al.<br>
 [[Certificate]](https://g98molina.github.io/files/FMCNB3.pdf) · [[Book of Abstracts]](https://g98molina.github.io/files/libro_abstracts-71.pdf)
 
-**III Workshop en Energías Renovables: hidrógeno y baterías de litio (UNC–UNCA–UNDEF)**<br>
-*Poster · San Fernando del Valle de Catamarca, Argentina*<br>
-*"Simulación DFT de grafeno y óxidos de carbono fluorados para la protección de litio metálico en baterías."*<br>
-G. N. Molina et al.<br>
-[[Certificate]](https://g98molina.github.io/files/WER-2025.pdf)
-
-## 2024
-
 **22nd International Workshop on Computational Physics and Materials Science: Total Energy and Force Methods**<br>
 *Poster · ICTP, Trieste, Italy*<br>
 *"Study of the exfoliation of two-dimensional Cu-doped TiSe₂."*<br>
 G. Molina et al.<br>
 [[Certificate]](https://g98molina.github.io/files/cert-ictp.pdf) · [[Book of Abstracts]](https://g98molina.github.io/files/Booklet_Post._Sessions_SMR4050.pdf)
+
+## 2024
 
 **14th Early Stage Researchers Workshop in Nanoscience**<br>
 *Poster · IMDEA Nanoscience, Madrid, Spain*<br>
